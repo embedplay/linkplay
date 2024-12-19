@@ -1,54 +1,4 @@
-#EXTM3U 
-
-************************************************************  AO VIVO  ************************************************************
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", Sportv 1 HD
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/14
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", Sportv 2 HD
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/9
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", Sportv 3 HD
-http://78.159.122.138:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/28
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 2
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 3
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 4
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 5
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 6
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 7
-http://cdnexterno.thomas-talk.me:8081/externo/canal_espn7/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 1
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 2
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 3
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 4
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Of7GgoD.jpg" group-title="AO VIVO", NBA
-https://cloudserve.world/live/stream_nba1.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/htrWFeK.jpg" group-title="AO VIVO", NFL
-https://cloudserve.world/live/stream_nfl1.m3u8
+#EXTM3U
 
 ************************************************************  ABERTOS  ************************************************************
 
@@ -548,8 +498,6 @@ http://nxt.plus:8080/live/olmos/1234guz/3283.m3u8
 http://nxt.plus:8080/live/olmos/1234guz/9797.m3u8
 
 ************************************************************  ESPORTE INT  ************************************************************
-#EXTINF:-1 tvg-logo="https://imgur.com/yV68wID.jpg" group-title="ESPORTE INT", 5SPORT 4K ISRAEL
-https://stream1.freetv.fun/sport5-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/featuredImage.jpg" group-title="ESPORTE INT", AZTECA DEPORTES NETWORK
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
@@ -575,19 +523,19 @@ https://jmp2.uk/plu-60492fdd9989d30007ccd30a.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/pbWFaVD.jpg" group-title="ESPORTE INT", CANAL 11
 http://176.65.146.108:8022/play/a076/index.m3u8
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HDTV.(CBSSD).us" tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="ESPORTE INT", CBS SPORTS NETWORK
-https://7pal.short.gy/cbssptnw
-
 #EXTINF:-1 channel-id="PlutoTV-63a0e33a45264d000850ed7e-us" tvg-name="Golazo Network" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/featuredImage.jpg" tvg-chno="2830"  group-title="ESPORTE INT", CBS GOLAZO NETWORK
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-5e9f2c05172a0f0007db4786-us" tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/featuredImage.jpg" tvg-chno="2780" group-title="ESPORTE INT", CBS SPORTS HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uo7pHjF.png" group-title="ESPORTE INT", CBS SPORTS NETWORK
+https://7pal.short.gy/cbssptnw
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/638df6f8b63cf100075ccfa1/featuredImage.jpg" group-title="ESPORTE INT", CHILEVISION DEPORTES
 https://jmp2.uk/plu-638df6f8b63cf100075ccfa1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/featuredImage.jpg" group-title="ESPORTE INT", CLARO SPORTS PLUTO TV
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/featuredImage.jpg" group-title="ESPORTE INT", CLARO SPORTS *
 https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/IqVNips.jpg" group-title="ESPORTE INT", COURT SPORTS NETWORK
@@ -638,11 +586,7 @@ https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Op2iAEn.jpg" group-title="ESPORTE INT", DAZN F1
 http://353706499690165419.ofdp1112.xyz:80/play/XG6262799/772688366/165419.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Op2iAEn.jpg" group-title="ESPORTE INT", DAZN F1
-https://stream1.freetv.fun/8483ce6ad26bc695ae7f98e16fd2265dbd98b17df6dc86666660166acd3f4859.ctv
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b67f7cbc3ab400084e51f2/featuredImage.jpg" group-title="ESPORTE INT", DAZN FIGHTS*
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b67f7cbc3ab400084e51f2/featuredImage.jpg" group-title="ESPORTE INT", DAZN FIGHTS *
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/featuredImage.jpg" group-title="ESPORTE INT", DAZN HANDBALL
@@ -651,7 +595,7 @@ https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/featuredImage.jpg" group-title="ESPORTE INT", DAZN HELDINNEN
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/featuredImage.jpg" group-title="ESPORTE INT", DAZN INTL FOOTBALL*
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/featuredImage.jpg" group-title="ESPORTE INT", DAZN INTL FOOTBALL *
 
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/featuredImage.jpg" group-title="ESPORTE INT", DAZN RINGSIDE
@@ -667,10 +611,10 @@ https://jmp2.uk/plu-659bfdc66e4f6a0008ae4a3c.m3u8
 https://7pal.short.gy/11sports1
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/qpsnlAw.png" group-title="ESPORTE INT", ESPN 
-https://7pal.short.gy/espnus
+https://b.trydarius.shop/espn.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE INT", ESPN 2
-https://7pal.short.gy/espn2
+https://b.trydarius.shop/espn2.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://imgur.com/xdl9HaV.png" group-title="ESPORTE INT", ESPN DEPORTES
 http://watch-myjokertv.xyz:8080/play/bOpa-hjIZjH1UJfV_cJSZZ7hDZiZOQTcUevtCLAhqfvdDaABFuBWJFvs_Avcah1o/m3u8
@@ -690,8 +634,8 @@ https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/undefined.jpg" group-title="ESPORTE INT", FOX SPORTS EN ESPAÑOL
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/featuredImage.jpg" group-title="ESPORTE INT", ITV DEPORTES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 channel-id="pluto-63f7e3f9dff38e00082a57af" tvg-id="63f7e3f9dff38e00082a57af" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/featuredImage.jpg" group-title="ESPORTE INT", ITV DEPORTES
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xtZ1FgZ.jpg" group-title="ESPORTE INT", L'ÉQUIPE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
@@ -727,34 +671,19 @@ https://amg02712-fasttv-amg02712c1-sportstribal-emea-2381.playouts.now.amagi.tv/
 https://jmp2.uk/sam-CA110000152.m3u8
 
 #EXTINF:-1 channel-id="PLEX-5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-id="5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ba118cb3-d9ba-43b8-8020-049dd0a4e037/PickleTV_1920x1080_5_Official_PickleTV_Casey_Murawski.jpg" group-title="ESPORTE INT", PICKLETV
-https://epg.provider.plex.tv/library/parts/643054b1fc3be59477853717-63ec0b739866d8d2120ac759.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jG5WR9s1HbRVB5eC_jAQ
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/9itIV6s.jpg" group-title="ESPORTE INT", RALLY TV
-http://353706499690771303.ofdp1112.xyz:80/play/XG6262799/772688366/771303.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 1 
-http://176.65.146.108:8022/play/a06h/index.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RallyTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 1 
 https://stream1.freetv.fun/30c25ebe5e55a390fc925311b47254c35df6ddbfabae3ce1423aa6d5dd05b361.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 2 
-http://176.65.146.108:8022/play/a06i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 2 
 https://stream1.freetv.fun/907c1f6cbc3fc9e6b27233f93ac01bb3bc164606a43af485f39c84827674726b.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 3 
-http://176.65.146.108:8022/play/a06j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 4 
-http://176.65.146.108:8022/play/a05z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 4 
 https://stream1.freetv.fun/57f2db9e9b196e1e0030f09ca93b316936ad452309b116d58fa16b6fb46fb7fb.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 5
-http://176.65.146.108:8022/play/a06f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 5
 https://stream1.freetv.fun/4e2c6cb738b0453f3f05114c9c231aa8232cfcd003e5c78f3b075e0be351fa31.m3u8
@@ -763,13 +692,10 @@ https://stream1.freetv.fun/4e2c6cb738b0453f3f05114c9c231aa8232cfcd003e5c78f3b075
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/6SnAdFw.jpg" group-title="ESPORTE INT", SPORT TV +
-http://176.65.146.108:8022/play/a07t/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tNDk0RA.jpg" group-title="ESPORTE INT", SPORT TV NBA
-http://176.65.146.108:8022/play/a06w/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JurJUk9.jpg" group-title="ESPORTE INT", SKY F1
-https://stream1.freetv.fun/bc9c766df819ea441e164415a91e640a08d7b45205d499da6f30d4481cdf63b5.m3u8
 
 #EXTINF:-1 channel-id="SamsungTVPlus-USBC600001QL" tvg-id="USBC600001QL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC600001QL_20240912T190104SQUARE.png" tvg-chno="2442" group-title="ESPORTE INT", T2
 https://jmp2.uk/sam-USBC600001QL.m3u8
@@ -831,4 +757,3 @@ https://r6.ciclano.io:15004/stream
 https://conectperu.com/8012/stream
 
 #EXTM3U
-
