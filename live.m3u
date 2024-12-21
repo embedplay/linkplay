@@ -1,5 +1,52 @@
 #EXTM3U
 
+************************************************************  AO VIVO  ************************************************************
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", CNN 1920x1080
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ARGENTINA PADEL TOUR
+https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 2
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 3
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 4
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 5
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 6
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", ESPN 7
+http://cdnexterno.thomas-talk.me:8081/externo/canal_espn7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 1
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 2
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 3
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", SPORT TV 4
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/Sporttv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Of7GgoD.jpg" group-title="AO VIVO", NBA
+https://cloudserve.world/live/stream_nba1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/htrWFeK.jpg" group-title="AO VIVO", NFL
+https://cloudserve.world/live/stream_nfl1.m3u8
+
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Globo RS" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
@@ -66,7 +113,7 @@ https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/in
 https://stream1.freetv.fun/globo-news-2.m3u8
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://imgur.com/Yt80SHy.jpg" group-title="ABERTOS", CNN BRASIL
-https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/chunklist_w1707009292.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/c57ZcJU.jpg" group-title="ABERTOS", CNBC TIMES BRASIL
 https://linkplay.short.gy/CNBCTIMESBRASIL/index.m3u8
@@ -81,7 +128,7 @@ https://d9tard1jbwri9.cloudfront.net/playlist.m3u8
 https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/TXKvUKn.jpg" group-title="ABERTOS", CNN BRASIL MONEY
-https://cdn-fast.nxtv.com.br/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8?channel_code=cnnmoney?token=6794592e83a3498af6186f7342184b26b6ee8062-833a163718cb7d9a8598078c1e8e74be-1731759408-1731716208
+https://video03.logicahost.com.br/cnnmoney/cnnmoney/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/featuredImage.jpg" group-title="ABERTOS", BM&C NEWS
 https://cdn-fast.nxtv.com.br/9978b7063e297d840ae3505174db1fbe/ENC_STENNA/BMC_H264_1080p/playlist.m3u8?token=b0c97572798ba16464caec939a83e1585b375862-f46d77d57dd8d33cfb488b3ea29c5d2c-1730946049-1730902849
@@ -364,22 +411,22 @@ https://super-cdn.link/premiere7/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 8
 https://super-cdn.link/premiere8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", MAX 1
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="ESPORTE PPV", MAX 1
 https://super-cdn.link/max/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", MAX 1
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="ESPORTE PPV", MAX 1
 https://super-cdn.link/max2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", MAX 1 
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="ESPORTE PPV", MAX 1 
 https://super-cdn.link/max3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", PRIME VIDEO 1 
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="ESPORTE PPV", PRIME VIDEO 1 
 https://super-cdn.link/primevideo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", PRIME VIDEO 2 
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="ESPORTE PPV", PRIME VIDEO 2 
 https://super-cdn.link/primevideo2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="AO VIVO", PRIME VIDEO 3 
+#EXTINF:-1 tvg-logo="https://imgur.com/slgLMJs.jpg" group-title="ESPORTE PPV", PRIME VIDEO 3 
 https://super-cdn.link/primevideo3/index.m3u8
 
 ************************************************************  PARAMOUNT TNT  ************************************************************
