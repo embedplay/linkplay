@@ -1,2 +1,12 @@
 #EXTM3U
-https://live-c2.cf.dmcdn.net/sec2(IVHQahwpVnCza_eLVHCmc9JJy1CWg_jvB7c809rzftTRkKgtGEoHknwRxX2wL8n4nN6c35Pv79wYu1xCvVtfMVJp4ByYbSqjxxg19s66ayt2gRFClkEXJcbvyhdxSyjR)/cloud/3/x95js14/s/live-720.m3u8#cell=lcfc2
+#EXT-X-VERSION:3
+#EXTINF:9.520000,
+http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/255481
+#EXTINF:10.480000,
+http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/255480
+#EXTINF:11.880000,
+http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/255480
+#EXTINF:12.120000,
+http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/255479
+#EXTINF:13.640000,
+http://uniplayuhd.cdn23.click:80/47632010/A739P3512P/255479
