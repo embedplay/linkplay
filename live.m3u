@@ -3,14 +3,8 @@
 #EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV URUGUAIANA
 https://linkplay.short.gy/RBSTVURUGUAIANA/index.m3u8
 
-#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", RBS TV URUGUAIANA
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-29.754806&long=-57.085333&quality=HD
-
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
 https://linkplay.short.gy/RBSTV/index.m3u8
-
-#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", RBS TV POA
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-30.070997&long=-51.230508&quality=HD
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
@@ -18,41 +12,23 @@ https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBOSP.m3u8
 
-#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", GLOBO SP
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-23.5505&long=-46.6333
-
 #EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 
 #EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBORJ.m3u8
 
-#EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", GLOBO RJ
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-22.939997786227963&long=-43.21184394931886&quality=HD
-
 #EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSCTV SC
 http://zutufo.in:80/live/781487031/K788a6763d/2302_.m3u8
-
-#EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", NSCTV SC
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-27.590194&long=-48.533944&quality=HD
 
 #EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC PR
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RPC.m3u8
 
-#EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", RPC PR
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-25.417139&long=-49.287444&quality=HD
-
 #EXTINF:-1 tvg-id="TV Globo Minas" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG
 http://168.205.87.198:8555/live/1313/123456/70.m3u8
 
-#EXTINF:-1 tvg-id="TV Globo Minas" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", GLOBO MG
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-18.5264844&long=-44.1588654&quality=HD
-
 #EXTINF:-1 tvg-id="TV Globo Brasília" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF
 http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
-
-#EXTINF:-1 tvg-id="TV Globo Brasília" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", GLOBO DF
-http://revendapro.zapto.org/globoplay/redirect.php?id=4452349&lat=-15.69925&long=-47.829611&quality=HD
 
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDRS/index.m3u8
@@ -65,9 +41,6 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band MG" tvg-logo="https://imgur.com/bw3rRqm.jpg" group-title="ABERTOS", BAND MG
 http://tv.mapfibra.com.br:8555/live/1313/123456/19.m3u8
-
-#EXTINF:-1 tvg-id="Band PR" tvg-logo="https://imgur.com/FmMCT4v.jpg" group-title="ABERTOS", BAND PR
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(7H4h9Arygjq7yu4511FIgYJRKyhkRYIeJIUocdWIpD2sRouS89xTZIeDPu8Pr8t7VggtAB9deK9tCr60sal0iFhRvzKDowYAVj-V5AmJpBoU8LB_6Xf25x4UySids0Wv)/cloud/3/x95jrmo/s/live-1080.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SBTRS.m3u8
@@ -91,16 +64,13 @@ https://linkplay.short.gy/RECORDSP/index.m3u8
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 #EXTINF:-1 tvg-id="REDETV HD" tvg-logo="https://imgur.com/53rEwhy.jpg" group-title="ABERTOS", REDETV! 
-https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index.m3u8
+
 
 #EXTINF:-1 tvg-id="REDETV HD" tvg-logo="https://imgur.com/IvRA6Or.jpg" group-title="ABERTOS", REDETV GO! 
-https://fast-channels-t.b-cdn.net/9978b7063e297d840436d3b981ac63cc/redetv/aovivo_abr/playlist.m3u8?token=b413a809afc43eb2d6fad754e4c1ca042e68c26b-d7a946a57dc2d7cfd5fef088b33dbcd2-1749183400-1749140200
+https://cache01sp.cdnsimba.com.br/bpk-token/2ac@3d12z1himthppkuq0gkv4wztxp5ygp443hrdz1aa/redetv/aovivo_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/NzZS9Zm.jpg" group-title="ABERTOS", GLOBO NEWS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBONEWS.m3u8
-
-#EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ABERTOS", GLOBO NEWS
-http://revendapro.zapto.org/globoplay/redirect.php?id=3180453&lat=-27.175870888272403&long=-51.510533315897405&quality=HD
 
 #EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://imgur.com/lNRgeYH.jpg" group-title="ABERTOS", CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
@@ -168,17 +138,17 @@ https://video01.kshost.com.br/kamal3366/kamal3366/chunklist.m3u8
 #EXTINF:-1 tvg-id="CULTURA HD" tvg-logo="https://imgur.com/hsZ4qV5.jpg" group-title="ABERTOS", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/9fKePFq.jpg" group-title="ABERTOS", TV CULTURA FAST
-https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a73831_output_0.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/IhxadqR.jpg" group-title="ABERTOS", REDE MINAS
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/OWfwBpm.jpg" group-title="ABERTOS", YPÊTV
+#EXTINF:-1 tvg-logo="https://imgur.com/BrMQeNS.jpg" group-title="ABERTOS", YPÊTV
 https://video09.logicahost.com.br/yptvoficioal/yptvoficioal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WTtsInb.jpg" group-title="ABERTOS", COM BRASIL TV
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/S6pC7ft.jpg" group-title="ABERTOS", CARAS TV
+https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/s7BoZ89.jpg" group-title="ABERTOS", CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -327,7 +297,7 @@ https://new.ejaculacaoretardada.site/sportv/index.m3u8?wmsAuthSign=undefined
 
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5ynzW2B.jpg" group-title="ESPORTE", SPORTV MOSAICO
-
+https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://imgur.com/gofZHpP.jpg" group-title="ESPORTE", SPORTV 2
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
@@ -425,14 +395,8 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 #EXTINF:-1 tvg-id="OFF HD" tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CANALOFF.m3u8
 
-#EXTINF:-1 tvg-id="OFF HD" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ESPORTE", CANAL OFF
-http://revendapro.zapto.org/globoplay/redirect.php?id=7339078&lat=-23.614942616362804&long=-46.69667531648953&quality=HD
-
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-logo="https://imgur.com/co6FqeB.jpg" group-title="ESPORTE", CANAL COMBATE
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CANALCOMBATE.m3u8
-
-#EXTINF:-1 tvg-id="COMBATE HD" tvg-logo="https://imgur.com/3mioBFe.jpg" group-title="ESPORTE", CANAL COMBATE
-http://revendapro.zapto.org/globoplay/redirect.php?id=3180444&lat=-27.175870888272403&long=-51.510533315897405&quality=HD
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5ZtGtk1.jpg" group-title="ESPORTE", UFC FIGHT PASS
 http://new.m3u8.one:80/ufcfightpass/index.m3u8
