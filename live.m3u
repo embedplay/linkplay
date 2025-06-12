@@ -45,14 +45,14 @@ http://tv.mapfibra.com.br:8555/live/1313/123456/19.m3u8
 #EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SBTRS.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/SnO72PO.jpg" group-title="ABERTOS", SBT
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT
 https://linkplay.short.gy/SBTSP/index.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/SnO72PO.jpg" group-title="ABERTOS", SBT RJ
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/2.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/WIiDeA0.jpg" group-title="ABERTOS", +SBT
-https://aovivo.maissbt.com/channel_1080.m3u8
+https://aovivo.maissbt.com/channel.m3u8
 
 #EXTINF:-1 tvg-id="RECORD" tvg-logo="https://imgur.com/d59Gz8F.jpg" group-title="ABERTOS", RECORD RS
 https://linkplay.short.gy/RECORDRS/index.m3u8
@@ -401,7 +401,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CAN
 #EXTINF:-1 tvg-logo="https://imgur.com/5ZtGtk1.jpg" group-title="ESPORTE", UFC FIGHT PASS
 http://new.m3u8.one:80/ufcfightpass/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/P3yVhLm.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV
+#EXTINF:-1 tvg-logo="https://imgur.com/YDjJxmC.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV
 https://fast-channels-t2.b-cdn.net/grandepremio/aovivo_abr/playlist.m3u8?token=e606a41a6dce6d890fc5b305f07e160bc3697af3-0c9922c7158de41449659b1cc81c2b1e-1748583112-1748539912
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Cz8XHrg.jpg" group-title="ESPORTE", ACELERADOS
@@ -419,7 +419,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Bz7utWX.jpg" group-title="ESPORTE", WOOHOO SURF
 https://cdn-fast.nxtv.com.br/9978b7063e297d8498bab583ec8426ae/livepl/manifest/woohoo_h264_modified.m3u8
 
-#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://imgur.com/IX2WsMo.jpg" group-title="ESPORTE", PLAYTV
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://imgur.com/v7uMhMA.jpg" group-title="ESPORTE", PLAYTV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/01tFeE1.jpg" group-title="ESPORTE", X-SPORTS EM BREVE
