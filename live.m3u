@@ -1,71 +1,3 @@
-************************************************************  AO VIVO  ************************************************************
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", BAND RS
-https://hqf6tcxuhk.singularcdn.net.br/live/0195d36a-27cd-7d52-abba-72119b2fdeb4/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVkMzZhLTI3Y2QtN2Q1Mi1hYmJhLTcyMTE5YjJmZGViNC8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNDQyMDk1LCJpYXQiOjE3NTA0NDIwOTUsImV4cCI6MTc1MDUyODQ5NSwianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.gTyzSmGaVdSxrXGTvzF1FVaymkGvZJurX9rD4evvcXk&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", PREMIERE
-http://185.236.183.118:14508
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", PREMIERE
-http://185.236.183.118:14509
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", PREMIERE
-http://185.236.183.118:14510
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 11
-http://185.236.183.118:14511
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 12
-http://185.236.183.118:14512
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 13
-http://185.236.183.118:14513
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 14
-http://185.236.183.118:14514
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 15
-http://185.236.183.118:14515
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 16
-http://185.236.183.118:14516
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 17
-http://185.236.183.118:14517
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 18
-http://185.236.183.118:14518
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 19
-http://185.236.183.118:14519
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 20
-http://185.236.183.118:14520
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 21
-http://185.236.183.118:14521
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 22
-http://185.236.183.118:14522
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 23
-http://185.236.183.118:14523
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 24
-http://185.236.183.118:14524
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 25
-http://185.236.183.118:14525
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 26
-http://185.236.183.118:14526
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 27
-http://185.236.183.118:14527
-
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 28
-http://185.236.183.118:14528
-
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV URUGUAIANA
@@ -101,6 +33,9 @@ http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDRS/index.m3u8
 
+#EXTINF:-1 tvg-id= tvg-logo="https://img.band.com.br/image/2025/06/18/band-rs-15307.png" group-title="ABERTOS", BAND RS
+https://hqf6tcxuhk.singularcdn.net.br/live/0195d36a-27cd-7d52-abba-72119b2fdeb4/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVkMzZhLTI3Y2QtN2Q1Mi1hYmJhLTcyMTE5YjJmZGViNC8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTExOTYwLCJpYXQiOjE3NTA1MTE5NjAsImV4cCI6MTc1MDU5ODM2MCwianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.UUushjwTTMR8VSyrm7PMClp30NwZQnlXokQoFl_ub90&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
+
 #EXTINF:-1 tvg-id"BAND HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP
 https://linkplay.short.gy/BANDSP/index.m3u8
 
@@ -109,6 +44,15 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band MG" tvg-logo="https://imgur.com/bw3rRqm.jpg" group-title="ABERTOS", BAND MG
 http://tv.mapfibra.com.br:8555/live/1313/123456/19.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/18/band-parana-152651.png" group-title="ABERTOS", BAND PR
+https://hqf6tcxuhk.singularcdn.net.br/live/0195d36a-f948-71a4-bf7c-da6c3f84afb1/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVkMzZhLWY5NDgtNzFhNC1iZjdjLWRhNmMzZjg0YWZiMS8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTEyNTQ1LCJpYXQiOjE3NTA1MTI1NDUsImV4cCI6MTc1MDU5ODk0NSwianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.JJGMmVIEm3dVwrWrsyFqdNbGRhh4NPnQoz-9uaKZUdU&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
+
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/18/band-brasilia-152451.png" group-title="ABERTOS", BAND DF
+https://hqf6tcxuhk.singularcdn.net.br/live/0195ed65-6002-7fe1-9037-745645406075/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZDY1LTYwMDItN2ZlMS05MDM3LTc0NTY0NTQwNjA3NS8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTEyMTA5LCJpYXQiOjE3NTA1MTIxMDksImV4cCI6MTc1MDU5ODUwOSwianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.og-dSkQyttmnwzRIFo82pVN-ztOZyxLMhyIZ8HYxSyk&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
+
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/18/band-bahia-152358.png group-title="ABERTOS", BAND BAHIA
+https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTZmZjFlLThiYmMtNzZkOS1iY2RhLWNmZTU4YzJiMGJlNi8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTEyMzkzLCJpYXQiOjE3NTA1MTIzOTMsImV4cCI6MTc1MDU5ODc5MywianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.AheSEhqgXWDYU9u9BYCgyWIU5cB7CQTOJgn8heVPaXE&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
 
 #EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SBTRS.m3u8
