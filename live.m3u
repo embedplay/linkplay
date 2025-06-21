@@ -34,7 +34,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
 https://linkplay.short.gy/BANDRS/index.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://img.band.com.br/image/2025/06/18/band-rs-15307.png" group-title="ABERTOS", BAND RS
-https://hqf6tcxuhk.singularcdn.net.br/live/0195d36a-27cd-7d52-abba-72119b2fdeb4/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVkMzZhLTI3Y2QtN2Q1Mi1hYmJhLTcyMTE5YjJmZGViNC8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTExOTYwLCJpYXQiOjE3NTA1MTE5NjAsImV4cCI6MTc1MDU5ODM2MCwianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.UUushjwTTMR8VSyrm7PMClp30NwZQnlXokQoFl_ub90&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BANDRS.m3u8
 
 #EXTINF:-1 tvg-id"BAND HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP
 https://linkplay.short.gy/BANDSP/index.m3u8
@@ -51,7 +51,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/0195d36a-f948-71a4-bf7c-da6c3f84afb1/
 #EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/18/band-brasilia-152451.png" group-title="ABERTOS", BAND DF
 https://hqf6tcxuhk.singularcdn.net.br/live/0195ed65-6002-7fe1-9037-745645406075/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTVlZDY1LTYwMDItN2ZlMS05MDM3LTc0NTY0NTQwNjA3NS8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTEyMTA5LCJpYXQiOjE3NTA1MTIxMDksImV4cCI6MTc1MDU5ODUwOSwianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.og-dSkQyttmnwzRIFo82pVN-ztOZyxLMhyIZ8HYxSyk&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
 
-#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/18/band-bahia-152358.png group-title="ABERTOS", BAND BAHIA
+#EXTINF:-1 tvg-logo="https://img.band.com.br/image/2025/06/18/band-bahia-152358.png" group-title="ABERTOS", BAND BAHIA
 https://hqf6tcxuhk.singularcdn.net.br/live/0196ff1e-8bbc-76d9-bcda-cfe58c2b0be6/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTZmZjFlLThiYmMtNzZkOS1iY2RhLWNmZTU4YzJiMGJlNi8iLCJ1aWQiOiI4OTk3NjY0Ny1hNjJmLTRjZDYtOGQ0ZS1kYWQ1Y2ZmMGRlMDQiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6dHJ1ZSwibmJmIjoxNzUwNTEyMzkzLCJpYXQiOjE3NTA1MTIzOTMsImV4cCI6MTc1MDU5ODc5MywianRpIjoiODk5NzY2NDctYTYyZi00Y2Q2LThkNGUtZGFkNWNmZjBkZTA0IiwiaXNzIjoiU3BhbGxhIn0.AheSEhqgXWDYU9u9BYCgyWIU5cB7CQTOJgn8heVPaXE&uid=89976647-a62f-4cd6-8d4e-dad5cff0de04&magica=sim
 
 #EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
