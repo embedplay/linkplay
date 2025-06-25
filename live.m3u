@@ -1,6 +1,6 @@
 ************************************************************  ABERTOS  ************************************************************
 
-#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV URUGUAIANA
+#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/eEo2cEC.jpg" group-title="ABERTOS", RBS TV URUGUAIANA
 https://linkplay.short.gy/RBSTVURUGUAIANA/index.m3u8
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
@@ -33,10 +33,10 @@ http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDRS/index.m3u8
 
-#EXTINF:-1 tvg-id= tvg-logo="https://img.band.com.br/image/2025/06/18/band-rs-15307.png" group-title="ABERTOS", BAND RS
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BANDRS.m3u8
+#EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/vFyNF9l.png" group-title="ABERTOS", BAND RS
+https://linkplay.short.gy/BANDPLAYRS/index.m3u8
 
-#EXTINF:-1 tvg-id"BAND HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP
+#EXTINF:-1 tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP
 https://linkplay.short.gy/BANDSP/index.m3u8
 
 #EXTINF:-1 tvg-id="Band RJ" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ
