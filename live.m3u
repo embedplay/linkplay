@@ -44,6 +44,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 #EXTINF:-1 tvg-id="Band MG" tvg-logo="https://imgur.com/bw3rRqm.jpg" group-title="ABERTOS", BAND MG
 
+
 #EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SBTRS.m3u8
 
@@ -123,7 +124,7 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/8TimZlR.jpg" group-title="ABERTOS", POP TV
-https://rtisoluctions.com.br/hls/test.m3u8
+https://rtisoluctions.com.br/hls/test_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xynV4lO.jpg" group-title="ABERTOS", REDE SUL
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
@@ -148,6 +149,9 @@ https://video09.logicahost.com.br/yptvoficioal/yptvoficioal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/WTtsInb.jpg" group-title="ABERTOS", COM BRASIL TV
 https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OnV96hY.jpg" group-title="ABERTOS", VEJA+
+https://gpa-vja-samsungtvplus-br.otteravision.com/gpa/vja/vja_h265.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/S6pC7ft.jpg" group-title="ABERTOS", CARAS TV
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
@@ -175,7 +179,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRA VIVA
 https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c1678350df2c372a59163c9ad27f-c93faaf4f5f0fcc2eb74a0f732899f7e-1740878456-1740835256
-
 
 ************************************************************  ABERTOS INT  ************************************************************
 
