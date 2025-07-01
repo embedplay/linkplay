@@ -112,7 +112,7 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 https://streaming.procergs.com.br:8443/tve/smil:tve-s.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/C3sZsX8.jpg" group-title="ABERTOS", MASPER TV
-https://stream.castr.net/62572b254fcac2c0e67c3ac5/live_3815ed7055fe11ef95f9a97142a4bd4f/index.fmp4.m3u8
+https://tv01.zas.media:1936/bahtv/bahtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/ytN2K3G.jpg" group-title="ABERTOS", MULTI RS / ULBRA
 https://linkplay.short.gy/MULTIRS/index.m3u8
