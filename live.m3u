@@ -571,8 +571,8 @@ https://jmp2.uk/sam-USAJ4300001Q7.m3u8
 #EXTINF:-1 cuid="1432" tvg-name="Bein SportsXtra ñ 🇪🇸" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/featuredImage.jpg" tvg-chno="4030" group-title="ESPORTE INT", beIN SPORTS XTRA Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/pbWFaVD.jpg" group-title="ESPORTE INT", CANAL 11
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NDAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 cuid="1432" tvg-name="Bein SportsXtra ñ 🇪🇸" tvg-id="60492fdd9989d30007ccd30a" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/featuredImage.jpg" tvg-chno="4030" group-title="ESPORTE INT", beIN SPORTS XTRA Ñ
+https://jmp2.uk/sam-US2700004DX.m3u8
 
 #EXTINF:-1 channel-id="PlutoTV-63a0e33a45264d000850ed7e-us" tvg-name="Golazo Network" tvg-id="63a0e33a45264d000850ed7e" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/featuredImage.jpg" tvg-chno="2830"  group-title="ESPORTE INT", CBS GOLAZO NETWORK
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
@@ -581,46 +581,7 @@ https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 
 #EXTINF:-1 cuid="1511" tvg-name="Court Sports Network 🇺🇸 🎾 [ʟᴏcᴀʟɴᴏw]" tvg-id="5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169" tvg-logo="https://imgur.com/IqVNips.jpg" group-title="ESPORTE INT", COURT SPORTS NETWORK
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-652875586425fdb1f32d2169.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=jWAJg-wrMjSgqEZefyDp
-
-#EXTINF:-1 tvg-logo="https://imgur.com/2mI8lzU.jpg" group-title="ESPORTE INT", DAZN 1 ES
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NDUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/80VSBg7.jpg" group-title="ESPORTE INT", DAZN 2 ES
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Et0nLfr.jpg" group-title="ESPORTE INT", DAZN 3 ES
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/SBnbCtF.jpg" group-title="ESPORTE INT", DAZN 4 ES
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW00NDgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/759rrGr.jpg" group-title="ESPORTE INT", DAZN 1 PT
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTUvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BNYUB8Y.jpg" group-title="ESPORTE INT", DAZN 2 PT
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTYvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/wPd3dP9.jpg" group-title="ESPORTE INT", DAZN 3 PT
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTcvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/NONxICJ.jpg" group-title="ESPORTE INT", DAZN 4 PT
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTgvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/x5d62Rd.jpg" group-title="ESPORTE INT", DAZN 5 PT
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00NTkvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/ydMMnaj.jpg" group-title="ESPORTE INT", DAZN 6 PT
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Op2iAEn.jpg" group-title="ESPORTE INT", DAZN F1
-http://ua.1usd.tv:34000/ch765/mono.m3u8?token=1usdtv_com1.5v4CkMtaTkD7wOxmXzWvtjXgQWYiP07KTilt5LFY4bvjn_irmlKQ1RipdckGD4Ow
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Op2iAEn.jpg" group-title="ESPORTE INT", DAZN F1
-https://truefutvbrasil.ddnsgratis.com.br:8181/memfs/04fe4cb7-5f4b-43a0-8e48-57f8ade8ebf6.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Op2iAEn.jpg" group-title="ESPORTE INT", DAZN F1
-http://rkefqxf.mexamo.xyz:80/live/9746818526/8450184537/165973.m3u8
+https://is.gd/SwgJ8x?5e20b730f2f8d5003d739db7-652875586425fdb1f32d2169.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qpsnlAw.png" group-title="ESPORTE INT", ESPN 
 http://41.205.93.154/ESPN/mpegts
@@ -651,6 +612,9 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 
 #EXTINF:-1 cuid="1458" tvg-name="Futbol Network" tvg-logo="https://imgur.com/gbFmirB.jpg" group-title="ESPORTE INT", FUTBOL NETWORK
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/xtZ1FgZ.jpg" group-title="ESPORTE INT", L'ÉQUIPE
+https://jmp2.uk/sam-FR200016Y5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xtZ1FgZ.jpg" group-title="ESPORTE INT", L'ÉQUIPE
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
@@ -694,24 +658,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="ESPORTE INT", SKY SPORTS TENNIS
 https://7pal.short.gy/ssportstn
 
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 1
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW00OS9tb25vLm0zdTg=.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 2
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNzQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 3
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW00NTQvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 4
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yODkvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 5
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTAvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/FvunDEe.jpg" group-title="ESPORTE INT", SPORT TV 6
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTEvbW9uby5tM3U4.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/cocgEPF.jpg" group-title="ESPORTE INT", SUPERTENNIS TV
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
@@ -739,17 +685,8 @@ https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-a
 #EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" group-title="ESPORTE INT", TELEDEPORTE ES
 https://jmp2.uk/sam-ESBC410000577.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/L2FucLY.jpg" group-title="ESPORTE INT", TNT SPORTS 1 UK
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L2FucLY.jpg" group-title="ESPORTE INT", TNT SPORTS 2 UK
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L2FucLY.jpg" group-title="ESPORTE INT", TNT SPORTS 3 UK
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/L2FucLY.jpg" group-title="ESPORTE INT", TNT SPORTS 4 UK
-https://tfms-xyz-bypassmyown.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" group-title="ESPORTE INT", TELEDEPORTE ES
+https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/74er6Jm.png" group-title="ESPORTE INT", UFC US
 https://7pal.short.gy/ufc247
