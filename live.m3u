@@ -33,7 +33,7 @@ http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDRS/index.m3u8
 
-#EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/vFyNF9l.png" group-title="ABERTOS", BAND RS
+#EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/JUyeVah.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDPLAYRS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP
@@ -180,6 +180,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRA VIVA
 https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c1678350df2c372a59163c9ad27f-c93faaf4f5f0fcc2eb74a0f732899f7e-1740878456-1740835256
 
+
 ************************************************************  ABERTOS INT  ************************************************************
 
 #EXTINF:-1 tvg-logo="https://imgur.com/" group-title="ABERTOS INT", ABC US
@@ -323,13 +324,13 @@ https://stream1.freetv.fun/34e9633d3070ba225552b76e08e3f0fb245092937513d0aad03cd
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN
-https://stream1.freetv.fun/3d199b96d6cb8dfea1b5d7f6eee088a27692d4fdbe863000317c18ea64f4c83e.ctv
+https://stream1.freetv.fun/c24774980f6205cc3215a1a3a43d8e3f6d0e3a3246b49aa072fe19af542b65ea.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN2.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2
-https://stream1.freetv.fun/e9fa7619731c2c454b8afb1f9944724f9b3945a3e0db089929d4bbb1eb74eb5e.ctv
+https://stream1.freetv.fun/e9fa7619731c2c454b8afb1f9944724f9b3945a3e0db089929d4bbb1eb74eb5e.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN3.m3u8
@@ -347,19 +348,22 @@ https://stream1.freetv.fun/5f16983d8a1a3cedd7ddc8cafac0e4ed40cb26f9de7ced60bf503
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN5.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5
-https://stream1.freetv.fun/29108bebc412d5cc318a00f35759456c6012dc2e385d2d39bcfeea814057086c.ctv
+https://stream1.freetv.fun/29108bebc412d5cc318a00f35759456c6012dc2e385d2d39bcfeea814057086c.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/ESPN6.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6
-https://stream1.freetv.fun/39830ea18aba01047560da5332224927a1ae16193e637edf4c24f270d48c1a16.ctv
+https://stream1.freetv.fun/39830ea18aba01047560da5332224927a1ae16193e637edf4c24f270d48c1a16.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://imgur.com/85aKhj9.jpg" group-title="ESPORTE", BAND SPORTS
 https://linkplay.short.gy/BANDSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZE TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZE TV
+https://stream1.freetv.fun/32066f4aaf5730e1089c94a5ed66c60981fed10d4053e30cafd1061f1243ee8f.m3u8
 
 #EXTINF:-1 tvg-id="NOSSO FUTEBOL HD" #EXTINF:-1 tvg-logo="https://imgur.com/ZbodB5l.jpg" group-title="ESPORTE", NOSSO FUTEBOL
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/NOSSOFUTEBOL.m3u8
@@ -372,6 +376,9 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 
 #EXTINF:-1 tvg-id="OFF HD" tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CANALOFF.m3u8
+
+#EXTINF:-1 tvg-id="OFF HD" tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
+https://stream1.freetv.fun/a27f5a2995f3764442da62b128ae5277e6f2671bae78b8dfcd8b026bcd1b0d4b.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-logo="https://imgur.com/co6FqeB.jpg" group-title="ESPORTE", CANAL COMBATE
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CANALCOMBATE.m3u8
