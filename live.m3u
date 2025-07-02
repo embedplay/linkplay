@@ -393,7 +393,7 @@ https://fast-channels-t2.b-cdn.net/grandepremio/aovivo_abr/playlist.m3u8?token=e
 https://linkplay.short.gy/GEFAST/index.m3u8
 
 #EXTINF:-1 tvg-id="WOOHOO HD" tvg-logo="https://imgur.com/oR11PaP.jpg" group-title="ESPORTE", WOOHOO
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/73.m3u8
+http://tv.mapfibra.com.br:8555/live/1488/123456/141.m3u8
 
 #EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://imgur.com/v7uMhMA.jpg" group-title="ESPORTE", PLAYTV
 https://isaocorp.cloudecast.com/playtv/index.m3u8
