@@ -19,16 +19,16 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBORJ.m3u8
 
 #EXTINF:-1 tvg-id="NSC TV Florianópolis" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSCTV SC
-http://zutufo.in:80/live/781487031/K788a6763d/2302_.m3u8
+https://linkplay.short.gy/NSC/index.m3u8
 
 #EXTINF:-1 tvg-id="RPC Curitiba" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC PR
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RPC.m3u8
+https://linkplay.short.gy/RPC/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Globo Minas" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG
-http://168.205.87.198:8555/live/1313/123456/70.m3u8
+https://linkplay.short.gy/GLOBOMG/index.m3u8
 
 #EXTINF:-1 tvg-id="TV Globo Brasília" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF
-http://zutufo.in:80/live/781487031/K788a6763d/365104_.m3u8
+https://linkplay.short.gy/GLOBODF/index.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDRS/index.m3u8
