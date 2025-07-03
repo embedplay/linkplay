@@ -1,7 +1,5 @@
-************************************************************  ABERTOS  ************************************************************
-
-#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/eEo2cEC.jpg" group-title="ABERTOS", RBS TV URUGUAIANA
-https://linkplay.short.gy/RBSTVURUGUAIANA/index.m3u8
+#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/eEo2cEC.jpg" group-title="ABERTOS", RBS TV SM
+https://linkplay.short.gy/RBSTVSM/index.m3u8
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
 https://linkplay.short.gy/RBSTV/index.m3u8
@@ -11,9 +9,6 @@ https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBOSP.m3u8
-
-#EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 
 #EXTINF:-1 tvg-id="TV Globo Rio de Janeiro" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBORJ.m3u8
@@ -179,7 +174,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRA VIVA
 https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c1678350df2c372a59163c9ad27f-c93faaf4f5f0fcc2eb74a0f732899f7e-1740878456-1740835256
-
 
 ************************************************************  ABERTOS INT  ************************************************************
 
