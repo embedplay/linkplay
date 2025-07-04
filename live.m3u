@@ -693,20 +693,23 @@ https://cast.youngtech.radio.br/radio/8780/am
 #EXTINF:-1 tvg-logo="https://imgur.com/RGUBFY8.jpg" group-title="RADIO", CHARRUA 97.7 FM
 https://cast.youngtech.radio.br/radio/8780/fm
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KMnhKeQ.jpg" group-title="RADIO", GAUCHA
+#EXTINF:-1 tvg-logo="https://imgur.com/1UoTV8q.jpg" group-title="RADIO", GAÚCHA
 https://8033.brasilstream.com.br/stream?rand=oXKEw
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KMnhKeQ.jpg" group-title="RADIO", GAUCHA 2
+#EXTINF:-1 tvg-logo="https://imgur.com/t0kDObk.jpg" group-title="RADIO", GAUCHA 2
 https://liverdgaupoa2.rbsdirect.com.br/primary/gaucha_rbs2.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PvU8tFa.jpg" group-title="RADIO", ATLANTIDA
+#EXTINF:-1 tvg-logo="https://imgur.com/yjjOSCY.jpg" group-title="RADIO", ATLÂNTIDA
 http://liverdatlpoa.rbsdirect.com.br/primary/atl_poa.sdp/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="https://imgur.com/ajSESWy.jpg" group-title="RADIO", RÁDIO GUAÍBA
-https://c1.audiostream.com.br:2007/site
+#EXTINF:-1 tvg-logo="https://imgur.com/MuVAULr.jpg" group-title="RADIO", RÁDIO GUAÍBA
+https://stm12.voxhd.com.br:9670/stream/
  
 #EXTINF:-1 tvg-logo="https://imgur.com/bravZz7.jpg" group-title="RADIO", BAND POA
-https://player-radiobandeirantes-poa.stream.uol.com.br/live/radiobandeirantes-poa.m3u8
+https://playerservices.streamtheworld.com/api/livestream-redirect/RB_POAAAC.m3u8?dist=bandplay
+
+#EXTINF:-1 tvg-logo="https://imgur.com/DCqpiAu.jpg" group-title="RADIO", BAND NEWS POA
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_POAAAC.m3u8?dist=bandplay
 
 #EXTINF:-1 tvg-logo="https://imgur.com/056MqOG.jpg" group-title="RADIO", CBN POA
 https://liverdcbn.rbsdirect.com.br/primary/cbn_poa.sdp/playlist.m3u8
