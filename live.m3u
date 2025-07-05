@@ -365,6 +365,9 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/NOS
 #EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", NSPORTS
 https://linkplay.short.gy/NSPORTS/index.m3u8
 
+#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", NSPORTS
+https://fast-channels-t2.b-cdn.net/9978b7063e297d8452b051742a7ff1df/nsports/aovivo_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/SqrHWaz.jpg" group-title="ESPORTE", DESEMPEDIDOS TV
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 
