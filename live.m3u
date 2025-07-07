@@ -333,7 +333,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 https://stream1.freetv.fun/32066f4aaf5730e1089c94a5ed66c60981fed10d4053e30cafd1061f1243ee8f.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet HD" #EXTINF:-1 tvg-logo="https://imgur.com/1YlvYsz.jpg" group-title="ESPORTE", SPORTYNET
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/NOSSOFUTEBOL.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTYNET.m3u8
 
 #EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", NSPORTS
 https://linkplay.short.gy/NSPORTS/index.m3u8
