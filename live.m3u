@@ -326,11 +326,20 @@ https://mpjaq3evvk.mpjaq3evvk.workers.dev/espn6/index.m3u8
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-logo="https://imgur.com/85aKhj9.jpg" group-title="ESPORTE", BAND SPORTS
 https://linkplay.short.gy/BANDSPORTS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZÉ TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZE TV
+#EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZÉ TV
 https://stream1.freetv.fun/32066f4aaf5730e1089c94a5ed66c60981fed10d4053e30cafd1061f1243ee8f.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Qb8Do12.jpg" group-title="ESPORTE", CAZÉ TV PRIME VIDEO
+https://linkplay.short.gy/CAZETV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fB33Is6.jpg" group-title="ESPORTE", CAZÉ TV 2 PRIME VIDEO
+https://linkplay.short.gy/CAZETV2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Nuww1ci.jpg" group-title="ESPORTE", CAZÉ TV 3 PRIME VIDEO
+https://linkplay.short.gy/CAZETV3/index.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet HD" #EXTINF:-1 tvg-logo="https://imgur.com/1YlvYsz.jpg" group-title="ESPORTE", SPORTYNET
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTYNET.m3u8
