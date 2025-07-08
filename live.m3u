@@ -1,4 +1,6 @@
-#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/eEo2cEC.jpg" group-title="ABERTOS", RBS TV SM
+************************************************************  ABERTOS  ************************************************************
+
+#EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM
 https://linkplay.short.gy/RBSTVSM/index.m3u8
 
 #EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
@@ -26,7 +28,7 @@ https://linkplay.short.gy/GLOBOMG/index.m3u8
 https://linkplay.short.gy/GLOBODF/index.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
-https://linkplay.short.gy/BANDRS/index.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BANDRS.m3u8
 
 #EXTINF:-1 tvg-id= tvg-logo="https://imgur.com/JUyeVah.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDPLAYRS/index.m3u8
@@ -112,7 +114,7 @@ https://tv01.zas.media:1936/bahtv/bahtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/ytN2K3G.jpg" group-title="ABERTOS", MULTI RS / ULBRA
 https://linkplay.short.gy/MULTIRS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/QtkQxxu.jpg" group-title="ABERTOS", POA STREAMING TV
+#EXTINF:-1 tvg-logo="https://imgur.com/TtyCrwW.jpg" group-title="ABERTOS", POA STREAMING TV
 https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zNynSWT.jpg" group-title="ABERTOS", RS PLAY TV
@@ -174,6 +176,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8
  
 #EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRA VIVA
 https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c1678350df2c372a59163c9ad27f-c93faaf4f5f0fcc2eb74a0f732899f7e-1740878456-1740835256
+
 
 ************************************************************  ABERTOS INT  ************************************************************
 
@@ -379,28 +382,25 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 ************************************************************  ESPORTE PREMIERE  ************************************************************  
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PREMIERE", PFC
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE.m3u8
+https://stream1.freetv.fun/b4091704157647b19725a759f575c74ddb359ee7d002f4896fa8022914890f94.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 2
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE2.m3u8
+https://stream1.freetv.fun/a3975503ce3d315f7f67d32da8e7024e771106b9b757cad9f5e45d15c1af549e.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 3
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE3.m3u8
+https://stream1.freetv.fun/9e8043f29b6b1073d3df611b0dfb66177df515382c8621a10e383183b9ed4626.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE4 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 4
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE4.m3u8
+https://stream1.freetv.fun/e34d1776f158534b7f92fb46d8fe1561fce8226e302b5f8d22698287d585f471.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 5
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE5.m3u8
+https://stream1.freetv.fun/d71a326c025701e412cea2f098986db832bcc11e94077ba4c17c8e489f648955.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 6
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE6.m3u8
+https://stream1.freetv.fun/866376e5440f748aae4a759b68fbe8678afdbe6fc2cdd9c9570e19564dcaab8d.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 7
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE7.m3u8
-
-#EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 7
-
+https://stream1.freetv.fun/1b7217743f73cc48974cad73ae0f4a0ac0e763bd597e99a6e531f7251f36458e.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE8 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 8
 
@@ -442,9 +442,6 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/AXN
 
 #EXTINF:-1 tvg-id="A_E" tvg-logo="https://imgur.com.jpg" group-title="FILMES", A&E
 https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
-
-#EXTINF:-1 tvg-id="A_E" tvg-logo="https://nxplay-images.comets.com.br/resize/66db622fe7dfc_1e4b2dba29f9b17e96c1648fb5002faf.png" group-title="FILMES", MOVIE SPHERE
-https://fast-channels-t.b-cdn.net/moviesphere/aovivo_abr/playlist.m3u8?bpkio_sessionid=10f1d33b13-f88b3ed0-3820-422f-a4df-eac4bb0928ae&bpkio_serviceid=9978b7063e297d848b9b6abb80f98d83&category=all
 
 ************************************************************  ESPORTE LATINO  ************************************************************
 
