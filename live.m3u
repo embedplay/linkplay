@@ -1,3 +1,20 @@
+************************************************************  AO VIVO  ************************************************************
+
+#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", SÉRIE B
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", 19h CSA x Ferroviário
+http://45.134.141.162:3366/stream/disneyplus/event1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", 21h30 Bahia x Fortaleza
+http://45.134.141.162:3366/stream/disneyplus/event2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", 21h30 Sport x Ceará
+http://45.134.141.162:3366/stream/premierefc/premiere2/master1080.m3u8
+
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-id="RBS TV Uruguaiana" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM
@@ -61,7 +78,7 @@ https://linkplay.short.gy/RECORDRS/index.m3u8
 https://linkplay.short.gy/RECORDSP/index.m3u8
 
 #EXTINF:-1 tvg-id="Record RJ" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD RJ
-https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
+https://Jqdqa1.short.gy/RECORDRJ/index.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="https://imgur.com/53rEwhy.jpg" group-title="ABERTOS", REDETV! 
 https://stream1.freetv.fun/redetv-1.m3u8
@@ -379,30 +396,39 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/01tFeE1.jpg" group-title="ESPORTE", X-SPORTS EM BREVE
 
-************************************************************  ESPORTE PREMIERE  ************************************************************  
+************************************************************  ESPORTE PPV  ************************************************************  
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PREMIERE", PFC
+#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
 https://stream1.freetv.fun/b4091704157647b19725a759f575c74ddb359ee7d002f4896fa8022914890f94.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 2
+#EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 2
 https://stream1.freetv.fun/a3975503ce3d315f7f67d32da8e7024e771106b9b757cad9f5e45d15c1af549e.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 3
+#EXTINF:-1 tvg-id="PREMIERE3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 3
 https://stream1.freetv.fun/9e8043f29b6b1073d3df611b0dfb66177df515382c8621a10e383183b9ed4626.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE4 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 4
+#EXTINF:-1 tvg-id="PREMIERE4 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 4
 https://stream1.freetv.fun/e34d1776f158534b7f92fb46d8fe1561fce8226e302b5f8d22698287d585f471.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE5 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 5
+#EXTINF:-1 tvg-id="PREMIERE5 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 5
 https://stream1.freetv.fun/d71a326c025701e412cea2f098986db832bcc11e94077ba4c17c8e489f648955.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 6
+#EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 6
 https://stream1.freetv.fun/866376e5440f748aae4a759b68fbe8678afdbe6fc2cdd9c9570e19564dcaab8d.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 7
+#EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 7
 https://stream1.freetv.fun/1b7217743f73cc48974cad73ae0f4a0ac0e763bd597e99a6e531f7251f36458e.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE8 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PREMIERE", PREMIERE 8
+#EXTINF:-1 tvg-id="PREMIERE8 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 8
+
+
+#EXTINF:-1 tvg-id="SportyNet + 1" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", SPORTYNET+
+
+
+#EXTINF:-1 tvg-id="SportyNet + 2" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", SPORTYNET+ 2
+
+
+#EXTINF:-1 tvg-id="SportyNet + 3" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", SPORTYNET+ 3
 
 
 ************************************************************  FILMES  ************************************************************
