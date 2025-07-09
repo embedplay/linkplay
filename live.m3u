@@ -365,7 +365,7 @@ https://linkplay.short.gy/CAZETV3/index.m3u8
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTYNET.m3u8
 
 #EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", NSPORTS
-https://linkplay.short.gy/NSPORTS/index.m3u8
+https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", NSPORTS
 https://fast-channels-t2.b-cdn.net/9978b7063e297d8452b051742a7ff1df/nsports/aovivo_abr/playlist.m3u8
