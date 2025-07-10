@@ -1,19 +1,10 @@
 ************************************************************  AO VIVO  ************************************************************
 
-#EXTINF:-1 tvg-logo="https://imgur.com/" group-title="AO VIVO", 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", SÉRIE B
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", 19h CSA x Ferroviário
+#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", SÉRIE B 21h30 CRB x Coritiba
 http://45.134.141.162:3366/stream/disneyplus/event1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", 21h30 Bahia x Fortaleza
-http://45.134.141.162:3366/stream/disneyplus/event2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", 21h30 Sport x Ceará
-http://45.134.141.162:3366/stream/premierefc/premiere2/master1080.m3u8
 
 ************************************************************  ABERTOS  ************************************************************
 
@@ -60,7 +51,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 
 
 #EXTINF:-1 tvg-id="SBT RS" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SBTRS.m3u8
+https://linkplay.short.gy/SBTRS/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT
 https://linkplay.short.gy/SBTSP/index.m3u8
