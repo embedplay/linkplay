@@ -1,10 +1,30 @@
+#EXTM3U 
+
 ************************************************************  AO VIVO  ************************************************************
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", AO VIVO
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", SÉRIE B 21h30 CRB x Coritiba
-http://45.134.141.162:3366/stream/disneyplus/event1/master.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/5SiAW6F.jpg" group-title="AO VIVO", 19h SULA Central Cordoba x Cerro Lago
+http://45.134.141.162:3366/stream/disneyplus/event2/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", 19h30 SÉRIE B Cuiabá x Amazonas
+http://45.134.141.162:3366/stream/sb/event11/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/GfUBXXfjpg" group-title="AO VIVO", 21h NOCHE DE COPA CAZÉTV
+http://45.134.141.162:3366/stream/cazetv/event1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5SiAW6F.jpg" group-title="AO VIVO", 21h30 SULA Bahia x América de Cali
+http://45.134.141.162:3366/stream/disneyplus/event3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5SiAW6F.jpg" group-title="AO VIVO", 21h30 SULA Ind del Valle x Vasco
+https://linkplay.short.gy/SBTSP/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/XBNMpYS.jpg" group-title="AO VIVO", COPA NORDESTE
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/N36pJ0F.jpg" group-title="AO VIVO", UFC
+
 
 ************************************************************  ABERTOS  ************************************************************
 
@@ -69,13 +89,13 @@ https://linkplay.short.gy/RECORDRS/index.m3u8
 https://linkplay.short.gy/RECORDSP/index.m3u8
 
 #EXTINF:-1 tvg-id="Record RJ" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD RJ
-https://Jqdqa1.short.gy/RECORDRJ/index.m3u8
+https://linkplay.short.gy/RECORDRJ/index.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="https://imgur.com/53rEwhy.jpg" group-title="ABERTOS", REDETV! 
 https://stream1.freetv.fun/redetv-1.m3u8
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="https://imgur.com/IvRA6Or.jpg" group-title="ABERTOS", REDETV GO! 
-https://brasil.cdnsimba.com.br/bpk-tv/RedeTV/default/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NTIxNTgwNTZ9.k84nEQX_3Zc1Nwvcs96K0IEDE_REl7UZwoGjbw0mQz8
+https://cache01sp.cdnsimba.com.br/bpk-token/2ac@1lfwdjkkvyoejua40sghokmhs24kr3is1ppjdjba/redetv/aovivo_abr/redetv/aovivo_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="GLOBO NEWS" tvg-logo="https://imgur.com/NzZS9Zm.jpg" group-title="ABERTOS", GLOBO NEWS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBONEWS.m3u8
@@ -125,11 +145,11 @@ https://linkplay.short.gy/MULTIRS/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/TtyCrwW.jpg" group-title="ABERTOS", POA STREAMING TV
 https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/KOJelN6.jpg" group-title="ABERTOS", POA 24 HORAS
+https://rtisoluctions.com.br/hls/test_src.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/zNynSWT.jpg" group-title="ABERTOS", RS PLAY TV
 https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/8TimZlR.jpg" group-title="ABERTOS", POP TV
-https://rtisoluctions.com.br/hls/test_src.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/xynV4lO.jpg" group-title="ABERTOS", REDE SUL
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
@@ -174,7 +194,7 @@ https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 https://linkplay.short.gy/AGROMAIS/index.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
-https://linkplay.short.gy/CANALDOBOI/index.m3u8
+https://aovivo3.equipea.com.br:5443/aovivort/streams/mhfHHraq36aFnEDa1745537219137.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cpUUpPR.jpg" group-title="ABERTOS", CANAL DO CRIADOR
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
@@ -298,8 +318,11 @@ http://200.40.67.106:8000/play/a04d/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://imgur.com/mTdVXfu.jpg" group-title="ESPORTE", SPORTV
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/sportv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Xbt9aeg.jpg" group-title="ESPORTE", SPORTV 4K
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://imgur.com/mTdVXfu.jpg" group-title="ESPORTE", SPORTV
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Xbt9aeg.jpg" group-title="ESPORTE", SPORTV 4K
+http://45.140.192.86:8080/stream/globoscapitais/4ktv1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5ynzW2B.jpg" group-title="ESPORTE", SPORTV MOSAICO
 https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
@@ -307,8 +330,14 @@ https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://imgur.com/gofZHpP.jpg" group-title="ESPORTE", SPORTV 2
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/sportv2/index.m3u8
 
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://imgur.com/gofZHpP.jpg" group-title="ESPORTE", SPORTV 2
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
+
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://imgur.com/N4yF1XS.jpg" group-title="ESPORTE", SPORTV 3
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/sportv3/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://imgur.com/N4yF1XS.jpg" group-title="ESPORTE", SPORTV 3
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/63TRQgU.jpg" group-title="ESPORTE", SPORTV 4
 
@@ -326,7 +355,7 @@ https://mpjaq3evvk.mpjaq3evvk.workers.dev/espn2/index.m3u8
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/espn3/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4
-https://02-mcteteu.shop/secret_key/121495dd173799d02e74bf4e7906f833.m3u8
+https://mpjaq3evvk.mpjaq3evvk.workers.dev/espn4/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5
 https://mpjaq3evvk.mpjaq3evvk.workers.dev/espn5/index.m3u8
@@ -339,9 +368,6 @@ https://linkplay.short.gy/BANDSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZÉ TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/CVH4BLa.jpg" group-title="ESPORTE", CAZÉ TV
-https://stream1.freetv.fun/32066f4aaf5730e1089c94a5ed66c60981fed10d4053e30cafd1061f1243ee8f.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Qb8Do12.jpg" group-title="ESPORTE", CAZÉ TV PRIME VIDEO
 https://linkplay.short.gy/CAZETV/index.m3u8
@@ -377,7 +403,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CAN
 https://fast-channels.b-cdn.net/9978b7063e297d8484543b659539b184/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ge-fast" tvg-logo="https://imgur.com/RBXrKbV.jpg" group-title="ESPORTE", GE FAST
-https://linkplay.short.gy/GEFAST/index.m3u8
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8
 
 #EXTINF:-1 tvg-id="WOOHOO HD" tvg-logo="https://imgur.com/oR11PaP.jpg" group-title="ESPORTE", WOOHOO
 http://tv.mapfibra.com.br:8555/live/1488/123456/141.m3u8
@@ -390,28 +416,28 @@ https://isaocorp.cloudecast.com/playtv/index.m3u8
 ************************************************************  ESPORTE PPV  ************************************************************  
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
-https://stream1.freetv.fun/b4091704157647b19725a759f575c74ddb359ee7d002f4896fa8022914890f94.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 2
-https://stream1.freetv.fun/a3975503ce3d315f7f67d32da8e7024e771106b9b757cad9f5e45d15c1af549e.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE2.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 3
-https://stream1.freetv.fun/9e8043f29b6b1073d3df611b0dfb66177df515382c8621a10e383183b9ed4626.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE3.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE4 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 4
-https://stream1.freetv.fun/e34d1776f158534b7f92fb46d8fe1561fce8226e302b5f8d22698287d585f471.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE4.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 5
-https://stream1.freetv.fun/d71a326c025701e412cea2f098986db832bcc11e94077ba4c17c8e489f648955.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE5.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 6
-https://stream1.freetv.fun/866376e5440f748aae4a759b68fbe8678afdbe6fc2cdd9c9570e19564dcaab8d.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE6.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 7
-https://stream1.freetv.fun/1b7217743f73cc48974cad73ae0f4a0ac0e763bd597e99a6e531f7251f36458e.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE7.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE8 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 8
-
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE8.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet + 1" tvg-logo="https://imgur.com/TfB4ztC.jpg" group-title="ESPORTE PPV", SPORTYNET+
 
@@ -469,7 +495,7 @@ https://stream.castr.net/678676a441941d5152afdd06/live_7e27c6d0d35d11ef91eef9363
 https://stream.castr.net/678676a441941d5152afdd06/live_7e27c6d0d35d11ef91eef9363c3521b5/tracks-v3/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE LAT", ESPN
-https://tfmsxyz-forum-tfms-xyz.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0xNDkvbW9uby5tM3U4.m3u8
+https://stream1.freetv.fun/a5b54826325f53af29a3cb5d8e20df7897dc078bc2c946a47468b4d7a4bdd609.ctv
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE LAT", ESPN
 http://201.217.246.177:8000/play/a05a/index.m3u8
