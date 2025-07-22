@@ -195,7 +195,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="AGROMAIS" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+
-
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/AGROMAIS.m3u8
 
 #EXTINF:-1 tvg-id="CANAL DO BOI" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
 https://aovivo3.equipea.com.br:5443/aovivort/streams/mhfHHraq36aFnEDa1745537219137.m3u8
