@@ -2,24 +2,6 @@
 
 ************************************************************  AO VIVO  ************************************************************
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", 19h Operário x Atlético GO
-http://45.134.141.162:3366/stream/sb/event1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/5SiAW6F.jpg" group-title="AO VIVO", 19h Cerro Largo x Central Córdoba 
-http://45.134.141.162:3366/stream/disneyplus/event1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", 20h Athletico x Ferroviária
-http://45.134.141.162:3366/stream/sb/event2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", 21h30 Athletic x Coritiba
-http://45.134.141.162:3366/stream/sb/event3/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/5SiAW6F.jpg" group-title="AO VIVO", 21h30 América de Cáli x Bahia
-http://45.134.141.162:3366/stream/disneyplus/event2/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/UpOZR9H.jpg" group-title="AO VIVO", 21h35 Vila Nova x CRB
-http://45.134.141.162:3366/stream/sb/event4/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/N36pJ0F.jpg" group-title="AO VIVO", UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 
@@ -151,6 +133,9 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KOJelN6.jpg" group-title="ABERTOS", POA 24 HORAS
 https://rtisoluctions.com.br/hls/test_src.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/G7v7xSD.jpg" group-title="ABERTOS", TV MINUANO
+https://tv02.zas.media:1936/minuano/minuano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zNynSWT.jpg" group-title="ABERTOS", RS PLAY TV
 https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
