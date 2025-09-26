@@ -1,6 +1,6 @@
-https://apsattv.com/ssungbra.m3u - Samsung BR
-https://apsattv.com/brlg.m3u - LG BR
-https://apsattv.com/tclbr.m3u - TLC BR
+https://www.apsattv.com/brlg.m3u - LG BR
+https://www.apsattv.com/ssungbra.m3u - Samsung BR
+https://www.apsattv.com/tclbr.m3u - TLC BR
 
 
 https://www.apsattv.com/lg.m3u
@@ -39,8 +39,8 @@ https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N36pJ0F.jpg" group-title="AO VIVO", UFC
 http://117.55.202.31:8259/stream/falcon/ufc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", AO VIVO
-
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", AO VIVO ESPN
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8
 
 ************************************************************  ABERTOS  ************************************************************
 
@@ -362,7 +362,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPO
 http://117.55.202.31:8259/stream/falcon/sportv/master.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV
-http://45.235.0.78:80/SPORTV-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/277.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Xf3iqvw.jpg" group-title="ESPORTE", SPORTV 4K
 https://linkplay.short.gy/SPORTV4K/index.m3u8
@@ -374,13 +374,13 @@ https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV2.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2
-http://45.235.0.78:80/SPORTV2-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/759.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTV3.m3u8
 
 #EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3
-http://45.235.0.78:80/SPORTV3-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/760.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/l4MbRQG.jpg" group-title="ESPORTE", SPORTV 4
 https://linkplay.short.gy/SPORTV4/index.m3u8
@@ -392,40 +392,37 @@ https://linkplay.short.gy/SPORTV5/index.m3u8
 https://linkplay.short.gy/SPORTV6/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN
-http://45.235.0.78:80/ESPNBRASIL-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2
-http://45.235.0.78:80/ESPN-HD/index.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8DBSdSKUklOV8GIh4=/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2
 http://46.151.196.223:14438/
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3
-http://45.235.0.78:80/ESPN2-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/662.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3
 http://46.151.196.223:14444/
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4
-http://45.235.0.78:80/FOXSPORTS-HD/index.m3u8
+https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8DACdSKUklOV8GIh4=/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4
 http://46.151.196.223:14450/
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5
-http://45.235.0.78:80/ESPNEXTRA-HD/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5
 http://46.151.196.223:14456/
 
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6
-http://45.235.0.78:80/FOXSPORTS2-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/920.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS HD" #EXTINF:-1 tvg-logo="https://imgur.com/kFj2Y25.jpg" group-title="ESPORTE", BAND SPORTS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BANDSPORTS.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS HD" #EXTINF:-1 tvg-logo="https://imgur.com/X38gYdK.jpg" group-title="ESPORTE", BAND SPORTS
-http://45.235.0.78:80/BANDSPORTS-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/276.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet HD" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTYNET.m3u8
@@ -448,6 +445,9 @@ https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/ind
 #EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (STV)
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 
+#EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (LGTV)
+https://amg00716-globo-amg00716c1-lg-br-9609.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
 #EXTINF:-1 tvg-id="GE TV HD" tvg-logo="https://imgur.com/HppDozO.jpg" group-title="ESPORTE", GE TV EXTRA (GLOBOPLAY)
 https://linkplay.short.gy/GETVEXTRA/index.m3u8
 
@@ -466,16 +466,10 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-logo="https://imgur.com/Nuww1ci.jpg" group-title="ESPORTE", CAZÉTV 3 PRIME VIDEO
 
 
-#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", N SPORTS
+#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", N SPORTS (SOULTV)
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", N SPORTS
-https://video01.soultv.com.br/nsports/nsports/chunklist_w1657350473.m3u8
-
-#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", N SPORTS
-https://video01.soultv.com.br/nsports/nsports/chunklist_w2064923743.m3u8
-
-#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", N SPORTS
+#EXTINF:-1 tvg-id="Nsports HD" tvg-logo="https://imgur.com/sugOZzN.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
 https://fast-channels-t2.b-cdn.net/9978b7063e297d8452b051742a7ff1df/nsports/aovivo_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="OFF HD" tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
@@ -485,7 +479,7 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CAN
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CANALCOMBATE.m3u8
 
 #EXTINF:-1 tvg-id="COMBATE HD" tvg-logo="https://imgur.com/IQntT52.jpg" group-title="ESPORTE", CANAL COMBATE
-http://45.235.0.78:80/COMBATE-HD/index.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/591.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/5ZtGtk1.jpg" group-title="ESPORTE", UFC FIGHT PASS
 
@@ -499,28 +493,28 @@ http://tv.mapfibra.com.br:8555/live/1488/123456/141.m3u8
 ************************************************************  ESPORTE PPV  ************************************************************  
 
 #EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/291.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 2
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE2.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/808.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 3
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE3.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/809.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE4 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 4
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE4.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/762.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE5 HD"tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 5
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE5.m3u8
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/763.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE6 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 6
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE6.m3u8
+
 
 #EXTINF:-1 tvg-id="PREMIERE7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 7
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE7.m3u8
+
 
 #EXTINF:-1 tvg-id="PREMIERE8 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 8
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PREMIERE8.m3u8
+
 
 #EXTINF:-1 tvg-id="SportyNet + 1" tvg-logo="https://imgur.com/TfB4ztC.jpg" group-title="ESPORTE PPV", SPORTYNET+
 http://dns.akira.best:8080/live/DedaCorintiano/GYER234C/325805.m3u8
