@@ -364,7 +364,7 @@ http://117.55.202.31:8259/stream/falcon/sportv/master.m3u8
 #EXTINF:-1 tvg-id="SPORTV" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/277.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Xf3iqvw.jpg" group-title="ESPORTE", SPORTV 4K
+#EXTINF:-1 tvg-id="Sportv 4K" tvg-logo="https://imgur.com/Xf3iqvw.jpg" group-title="ESPORTE", SPORTV 4K
 https://linkplay.short.gy/SPORTV4K/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yD1yZHO.jpg" group-title="ESPORTE", SPORTV MOSAICO
@@ -436,7 +436,7 @@ https://peercast.sbs/live/8677241/9132317/1576695.m3u8
 #EXTINF:-1 tvg-id="Xsports HD" tvg-logo="https://imgur.com/8MdNNWb.jpg" group-title="ESPORTE", X SPORTS
 http://38.46.143.150:80/live/592109/Aws0824/340450.m3u8
 
-#EXTINF:-1 tvg-id="Xsports HD" tvg-logo="https://imgur.com/8MdNNWb.jpg" group-title="ESPORTE", X SPORTS
+#EXTINF:-1 tvg-id="Xsports HD" tvg-logo="https://imgur.com/8MdNNWb.jpg" group-title="ESPORTE", X SPORTS 1080p
 http://38.46.143.150:80/live/592109/Aws0824/340449.m3u8
 
 #EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (TCLTV)
@@ -837,6 +837,9 @@ https://liverdgaupoa2.rbsdirect.com.br/primary/gaucha_rbs2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yjjOSCY.jpg" group-title="RADIO", ATLÂNTIDA
 http://liverdatlpoa.rbsdirect.com.br/primary/atl_poa.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/yjjOSCY.jpg" group-title="RADIO", ATLÂNTIDA FLORIPA
+https://24383.live.streamtheworld.com/ATL_FLO.mp3
  
 #EXTINF:-1 tvg-logo="https://imgur.com/MuVAULr.jpg" group-title="RADIO", RÁDIO GUAÍBA
 https://stm12.voxhd.com.br:9670/stream/
@@ -861,6 +864,9 @@ https://r6.ciclano.io:15004/stream
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AbjErut.jpg" group-title="RADIO", JOVEM PAN FM OSÓRIO
 https://r14.ciclano.io:15122/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AbjErut.jpg" group-title="RADIO", JOVEM PAN FM FLORIPA
+https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvzqv4O.jpg" group-title="RADIO", CONCIERTO FM PUNTA
 https://conectperu.com/8012/stream
