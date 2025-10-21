@@ -43,31 +43,22 @@ https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/N36pJ0F.jpg" group-title="AO VIVO", UFC
 http://117.55.202.31:8259/stream/falcon/ufc/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", AO VIVO ESPN
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/287.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", BAND RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTk1MzMxLTM0MGUtNzczMC05ZGM4LWRkY2JmMzJiNDVhMS8iLCJ1aWQiOiIwNTg4OGE5YS1mNDNmLTQyYTUtYjQwMi1lYWZlNGJlMzU3YmEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2MDk5OTkyMywiaWF0IjoxNzYwOTk5OTIzLCJleHAiOjE3OTI1MzU5MjMsImp0aSI6IjA1ODg4YTlhLWY0M2YtNDJhNS1iNDAyLWVhZmU0YmUzNTdiYSIsImlzcyI6IlNwYWxsYSJ9.qjYMeW_xqvoGvorfAgR01RcNfLGY9jfJjdUP6tc0rZM&uid=05888a9a-f43f-42a5-b402-eafe4be357ba
 
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM
 https://linkplay.short.gy/RBSTVSM/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM
-http://joao-1.dnswcdnoff.online:80/live/684961409738PW/424243160291PR/800.m3u8
-
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
 https://linkplay.short.gy/RBSTV/index.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
-http://joao-1.dnswcdnoff.online:80/live/684961409738PW/424243160291PR/337.m3u8
-
-#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS
 https://hplay.tv/augetv/12396547488/10.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
-https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
+https://hplay.tv:443/augetv/12396547488/7410.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
 https://gerenciar.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
@@ -75,23 +66,14 @@ https://gerenciar.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSCTV SC
 https://hplay.tv/augetv/12396547488/9.m3u8
 
-#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSCTV SC
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/NSC.m3u8
-
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC PR
 https://hplay.tv/augetv/12396547488/52.m3u8
 
-#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC PR
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RPC.m3u8
-
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBORJ.m3u8
-
-#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG
-https://stream1.freetv.fun/3b87fd4d9d56949fce8955a09281c5e686f1086e7a448cc947f9b5d233261d42.m3u8
+https://hplay.tv:443/augetv/12396547488/248650.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBODF.m3u8
+https://hplay.tv:443/augetv/12396547488/1097797.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ABERTOS", GLOBO BA
 https://hplay.tv/augetv/12396547488/172.m3u8 
@@ -103,13 +85,16 @@ https://hplay.tv/augetv/12396547488/11.m3u8
 https://linkplay.short.gy/BANDRS/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
-https://hplay.tv/augetv/12396547488/229.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTk1MzMxLTM0MGUtNzczMC05ZGM4LWRkY2JmMzJiNDVhMS8iLCJ1aWQiOiIwNTg4OGE5YS1mNDNmLTQyYTUtYjQwMi1lYWZlNGJlMzU3YmEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2MDk5OTkyMywiaWF0IjoxNzYwOTk5OTIzLCJleHAiOjE3OTI1MzU5MjMsImp0aSI6IjA1ODg4YTlhLWY0M2YtNDJhNS1iNDAyLWVhZmU0YmUzNTdiYSIsImlzcyI6IlNwYWxsYSJ9.qjYMeW_xqvoGvorfAgR01RcNfLGY9jfJjdUP6tc0rZM&uid=05888a9a-f43f-42a5-b402-eafe4be357ba
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
-http://joao-1.dnswcdnoff.online:80/live/684961409738PW/424243160291PR/322.m3u8
+https://hplay.tv/augetv/12396547488/229.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP
-https://stream1.freetv.fun/band-sp-1.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/019861d2-261b-7c52-b0b1-9dd659a24e1d/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTg2MWQyLTI2MWItN2M1Mi1iMGIxLTlkZDY1OWEyNGUxZC8iLCJ1aWQiOiIwNTg4OGE5YS1mNDNmLTQyYTUtYjQwMi1lYWZlNGJlMzU3YmEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2MTA2MTM1NSwiaWF0IjoxNzYxMDYxMzU1LCJleHAiOjE3OTI1OTczNTUsImp0aSI6IjA1ODg4YTlhLWY0M2YtNDJhNS1iNDAyLWVhZmU0YmUzNTdiYSIsImlzcyI6IlNwYWxsYSJ9.Qaaj5JLhfE0T9y2QZRBRenw7Zufr2EreYT418riP8Ps&uid=05888a9a-f43f-42a5-b402-eafe4be357ba
+
+#EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmlfc3ViIjoiLzAxOTRmMjExLTQyMjktNzQ5Zi1hNDdlLTU4ZjgxOTQ3MTAyNC8iLCJ1aWQiOiIwNTg4OGE5YS1mNDNmLTQyYTUtYjQwMi1lYWZlNGJlMzU3YmEiLCJyYXUiOm51bGwsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsIm5iZiI6MTc2MTA2MTM4MiwiaWF0IjoxNzYxMDYxMzgyLCJleHAiOjE3OTI1OTczODIsImp0aSI6IjA1ODg4YTlhLWY0M2YtNDJhNS1iNDAyLWVhZmU0YmUzNTdiYSIsImlzcyI6IlNwYWxsYSJ9.qjdAbm5csI_OKmjGTRZ7uk5PFXLSjX0SLTDDQR41ZiU&uid=05888a9a-f43f-42a5-b402-eafe4be357ba
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
@@ -118,10 +103,13 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8
 https://linkplay.short.gy/SBTRS/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
+https://hplay.tv/live/augetv/12396547488/1276.m3u8
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 http://joao-1.dnswcdnoff.online:80/live/684961409738PW/424243160291PR/347.m3u8
 
-#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT
-
+#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT SP
+https://hplay.tv:443/augetv/12396547488/38.m3u8
 
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/2.m3u8
@@ -133,10 +121,10 @@ https://aovivo.maissbt.com/channel.m3u8
 https://linkplay.short.gy/RECORDRS/index.m3u8
 
 #EXTINF:-1 tvg-id="Record HD" tvg-logo="https://imgur.com/d59Gz8F.jpg" group-title="ABERTOS", RECORD RS
-http://joao-1.dnswcdnoff.online:80/live/684961409738PW/424243160291PR/339.m3u8
+https://hplay.tv/live/augetv/12396547488/50.m3u8
 
 #EXTINF:-1 tvg-id="Record HD" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD SP
-https://stream1.freetv.fun/97702bf46351feb813780df1ae384f104ffc1318426bddbfb80ae081e9a29138.ctv
+https://hplay.tv:443/augetv/12396547488/227.m3u8
 
 #EXTINF:-1 tvg-id="Record HD" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD RJ
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
@@ -145,7 +133,7 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 
 
 #EXTINF:-1 tvg-id="RedeTV! HD" tvg-logo="https://imgur.com/IvRA6Or.jpg" group-title="ABERTOS", REDETV GO!
-https://brasil.cdnsimba.com.br/bpk-tv/RedeTV/default/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjAxMDIxNzd9.lbzBZUMZHPmHKHLPQdfn_KuLenK6NZnJmD5Wpznpkb4
+https://brasil.cdnsimba.com.br/bpk-tv/RedeTV/default/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvYnBrLXR2L1JlZGVUVi9kZWZhdWx0L2luZGV4Lm0zdTgiLCJtZXRob2QiOiJHRVQiLCJleHAiOjE3NjIzNjYwMzF9.J9Z12ZgZv5-GJB1_QgXv_GavYs9gFV_UdbAFyqWxbqQ
 
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-logo="https://imgur.com/NzZS9Zm.jpg" group-title="ABERTOS", GLOBO NEWS
 http://79.127.238.228:14093/globonews
