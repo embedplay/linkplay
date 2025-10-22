@@ -54,7 +54,7 @@ https://linkplay.short.gy/RBSTVSM/index.m3u8
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
 https://linkplay.short.gy/RBSTV/index.m3u8
 
-#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
+#EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS
 https://hplay.tv/augetv/12396547488/10.m3u8
 
 #EXTINF:-1 tvg-id="tv-globo" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
@@ -104,9 +104,6 @@ https://linkplay.short.gy/SBTRS/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 https://hplay.tv/live/augetv/12396547488/1276.m3u8
-
-#EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
-http://joao-1.dnswcdnoff.online:80/live/684961409738PW/424243160291PR/347.m3u8
 
 #EXTINF:-1 tvg-id="SBT HD" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT SP
 https://hplay.tv:443/augetv/12396547488/38.m3u8
