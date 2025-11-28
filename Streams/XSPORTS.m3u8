@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:9.520000,
-https://peercast.sbs/live/8677241/9132317/1576695.m3u8
+http://onebox.sbs:80/live/tanaka/302718/7931403.ts
 #EXTINF:10.480000,
-https://peercast.sbs/live/8677241/9132317/1576695.m3u8
+http://onebox.sbs:80/live/tanaka/302718/7931403.ts
 #EXTINF:11.880000,
-https://peercast.sbs/live/8677241/9132317/1576695.m3u8
+http://onebox.sbs:80/live/tanaka/302718/7931403.ts
 #EXTINF:12.120000,
-https://peercast.sbs/live/8677241/9132317/1576695.m3u8
+http://onebox.sbs:80/live/tanaka/302718/7931403.ts
 #EXTINF:13.640000,
-https://peercast.sbs/live/8677241/9132317/1576695.m3u8
+http://onebox.sbs:80/live/tanaka/302718/7931403.ts
