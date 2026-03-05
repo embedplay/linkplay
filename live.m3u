@@ -218,7 +218,7 @@ https://origin-nxtv.b-cdn.net/BMCNEWS/index.m3u8
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg HD" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage.jpg" group-title="ABERTOS", BLOOMBERG TV
-https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8
+https://24aab495.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9CbG9vbWJlcmdUVl9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bloomberg HD" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage.jpg" group-title="ABERTOS", BLOOMBERG TV+ (MOVIE ARK)
 https://c73e4993.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
@@ -335,7 +335,7 @@ https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c167
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://imgur.com/QWLIvhE.jpg" group-title="ABERTOS INT", CNN POR
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 
 #EXTINF:-1 tvg-id="CNN EN ESPAÃOL.ar" tvg-logo="https://imgur.com/pOpe2q6.jpg" group-title="ABERTOS INT", CNÑ
 http://181.78.82.6:46090/play/a034/index.m3u8
@@ -414,9 +414,6 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
 #EXTINF:-1 tvg-id="sportv-3" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
 
-#EXTINF:-1 tvg-id="sportv-3" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3
-https://02.arlivre.online/sportv3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/l4MbRQG.jpg" group-title="ESPORTE", SPORTV 4
 https://linkplay.short.gy/SPORTV4/index.m3u8
 
@@ -492,6 +489,9 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac55
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOULTV)
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
+#EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
+https://cdn-3.nxplay.com.br/NSPORTS/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (LGTV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 
@@ -544,6 +544,34 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 8 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 8
 
+************************************************************  ESPORTE 4K  ************************************************************
+
+#EXTINF:-1 tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="ESPORTE 4K", SKY SPORTS MAIN EVENT UHD
+https://a1xs.vip/2000015
+
+#EXTINF:-1 tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="ESPORTE 4K", SKY SPORTS F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="ESPORTE 4K", TNT SPORTS ULTIMATE UHD
+https://a1xs.vip/2000031
+
+#EXTINF:-1 tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="ESPORTE 4K", ASTRO SPORTS UHD
+https://a1xs.vip/9000001
+
+#EXTINF:-1 tvg-name="HK: Now Sports 1 4k" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="ESPORTE 4K", NOW SPORTS 1 4K
+https://a1xs.vip/9000011
+
+#EXTINF:-1 tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hubp2.png" group-title="ESPORTE 4K", HUB PREMIER 2 UHD
+https://a1xs.vip/9000012
+
+#EXTINF:-1 tvg-name="SE: V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="ESPORTE 4K", V SPORT ULTRA HD
+https://a1xs.vip/9000013
+
+#EXTINF:-1 tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="ESPORTE 4K", NESN UHD
+https://a1xs.vip/4000080
+
+#EXTINF:-1 tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="ESPORTE 4K", ELEVEN SPORTS 1 4K
+https://a1xs.vip/14001
 
 ************************************************************  FILMES  ************************************************************
 
