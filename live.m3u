@@ -4,6 +4,7 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO",
 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", PARAMOUNT+
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PARAMOUNT1.m3u8
 
@@ -12,15 +13,6 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PAR
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", PARAMOUNT+
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PARAMOUNT3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
-https://brstream.vip:443/teste/123/1743.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV 4k
-https://brstream.vip:443/teste/123/7648.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", PREMIERE
-https://brstream.vip:443/teste/123/7607.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/N36pJ0F.jpg" group-title="AO VIVO", UFC
 https://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
@@ -90,6 +82,9 @@ https://hplay.tv:443/augetv/12396547488/248650.m3u8
 #EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF (HPLAY)
 https://hplay.tv:443/augetv/12396547488/1097797.m3u8
 
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-logo="https://imgur.com/iJBfVOB.jpg" group-title="ABERTOS", GLOBO BA
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
 #EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS
 https://linkplay.short.gy/BANDRS/index.m3u8
 
@@ -135,9 +130,6 @@ https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/53rEwhy.jpg" group-title="ABERTOS", REDETV! 
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1089.m3u8
 
-#EXTINF:-1 tvg-id="Redetv.br" tvg-logo="https://imgur.com/IvRA6Or.jpg" group-title="ABERTOS", REDETV GO!
-https://fast-channels-t.b-cdn.net/redetv/aovivo_abr/redetv/aovivo_1080p/chunks.m3u8?bpkio_serviceid=9978b7063e297d840436d3b981ac63cc&bpkio
-
 #EXTINF:-1 tvg-id="globonews" tvg-logo="https://imgur.com/NzZS9Zm.jpg" group-title="ABERTOS", GLOBO NEWS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBONEWS.m3u8
 
@@ -150,9 +142,6 @@ https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1920x1080/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/lNRgeYH.jpg" group-title="ABERTOS", CNN BRASIL (MOVIE ARK)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/97d678e115854c73b5bfaf87c2d43956/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNNBrasil" tvg-logo="https://imgur.com/lNRgeYH.jpg" group-title="ABERTOS", CNN BRASIL (HPLAY)
-https://hplay.tv/live/augetv/12396547488/902.m3u8
-
 #EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC" tvg-logo="https://imgur.com/gNFG8oC.jpg" group-title="ABERTOS", CNBC TIMES BRASIL (LG)
 https://f593663c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVGltZXNCcmFzaWxsaWNlbmNpYWRvZXhjbHVzaXZvQ05CQ19ITFM/playlist.m3u8
 
@@ -161,9 +150,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 
 #EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS 
 https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS (HPLAY)
-https://hplay.tv/live/augetv/12396547488/1300.m3u8
 
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (TCLTV)
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
@@ -174,9 +160,6 @@ https://amg01391-sbtinfast-amg01391c3-lg-us-8995.playouts.now.amagi.tv/playlist/
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (MOVIE ARK)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f68ff6447c134b8e9cf8bed47083d48a/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (HPLAY)
-https://hplay.tv/live/augetv/12396547488/42.m3u8
-
 #EXTINF:-1 tvg-id="SBT News" tvg-logo="https://imgur.com/n8nAMtk.jpg" group-title="ABERTOS", SBT NEWS
 https://sbtnews.maissbt.com/channel.m3u8
 
@@ -186,11 +169,8 @@ https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlis
 #EXTINF:-1 tvg-id="Record News" tvg-logo="https://imgur.com/prZDV41.jpg" group-title="ABERTOS", RECORD NEWS
 https://rnw-rn-tcl-roku-syndication.otteravision.com/rnw/rn/rnw_rn.m3u8
 
-#EXTINF:-1 tvg-id="Record News" tvg-logo="https://imgur.com/prZDV41.jpg" group-title="ABERTOS", RECORD NEWS (HPLAY)
-https://hplay.tv/live/augetv/12396547488/51.m3u8
-
 #EXTINF:-1 tvg-id="CNN Money" tvg-logo="https://imgur.com/TXKvUKn.jpg" group-title="ABERTOS", CNN BRASIL MONEY
-https://fast-channels.b-cdn.net/9978b7063e297d84e1cd5f21af3a88b1/cnnmoney/aovivo_abr/playlist.m3u8
+https://cdn-5.nxplay.com.br/CNN_MONEY/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN Money" tvg-logo="https://imgur.com/TXKvUKn.jpg" group-title="ABERTOS", CNN BRASIL MONEY (LGTV)
 https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist/amg01391-addigital-cnnmoneyhevc-lgbr/playlist.m3u8
@@ -199,7 +179,7 @@ https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.tv/playlist
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/050d362b39c14375a498bf75e6631d85/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BM&C" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/featuredImage.jpg" group-title="ABERTOS", BM&C NEWS
-https://origin-nxtv.b-cdn.net/BMCNEWS/index.m3u8
+https://cdn-3.nxplay.com.br/BMCNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="BM&C" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/featuredImage.jpg" group-title="ABERTOS", BM&C NEWS (MOVIE ARK)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
@@ -222,17 +202,11 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/featuredImage.jpg" group-title="ABERTOS", NEW BRASIL (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/midRollAndPipAd/49587eb5acfb435cac34dcfc820bf564/playlist.m3u8
 
-#EXTINF:-1 tvg-id="UOL" tvg-logo="https://imgur.com/wOIGtql.jpg" group-title="ABERTOS", CANAL UOL (SOULTV)
-https://video01.soultv.com.br/uoltv/uoltv/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="UOL" tvg-logo="https://imgur.com/wOIGtql.jpg" group-title="ABERTOS", CANAL UOL (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTPampa.br" tvg-logo="https://imgur.com/khkkkuk.jpg" group-title="ABERTOS", TV PAMPA
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedeTPampa.br" tvg-logo="https://imgur.com/khkkkuk.jpg" group-title="ABERTOS", TV PAMPA
-https://hplay.tv/augetv/12396547488/32.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QeUwdDa.jpg" group-title="ABERTOS", TVE RS
 https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
@@ -261,32 +235,17 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/QtW8LDz.jpg" group-title="ABERTOS", TV DIÁRIO SM
 https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/oYHa6XB.jpg" group-title="ABERTOS", TV A PLATEIA
-https://video01.kshost.com.br/kamal3366/kamal3366/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="TV Cultura SP_local" tvg-logo="https://imgur.com/hsZ4qV5.jpg" group-title="ABERTOS", TV CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/IhxadqR.jpg" group-title="ABERTOS", REDE MINAS
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BrMQeNS.jpg" group-title="ABERTOS", YPÊTV
-https://video09.logicahost.com.br/yptvoficioal/yptvoficioal/playlist.m3u8
-
-#EXTINF:-1 tvg-id="COM Brasil" tvg-logo="https://imgur.com/WTtsInb.jpg" group-title="ABERTOS", COM BRASIL TV
-https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-
-#EXTINF:-1 tvg-id="COM Brasil" tvg-logo="https://imgur.com/WTtsInb.jpg" group-title="ABERTOS", GAZETA TV
-https://live.eu-north-1b.cf.dmcdn.net/sec2(FGfHYqaBVJBxA41Y5FLeBEfhOqGWRqRaRcWe7AIgJk6uB1Q8xVSblMAiDamew6PqrFaEPq0MvaaXsQfaFkEvx-_nsR4yX3S5DeNi71EhtYxj0QgYlowQO6GpX7XneDAy)/dm/3/x8ttlxm/s/live-1080.m3u8#cell=lcf-eu-north-1b
-
-#EXTINF:-1 tvg-logo="https://imgur.com/OnV96hY.jpg" group-title="ABERTOS", VEJA+
-https://origin-nxtv.b-cdn.net/VEJA_PLUS_FAST/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OnV96hY.jpg" group-title="ABERTOS", VEJA+ (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e0df8853124a4c109bf239f7981210fc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/S6pC7ft.jpg" group-title="ABERTOS", CARAS TV
 https://dfr80qz435crc.cloudfront.net/IJKL/Amagi/Caras/CarasTV_BR/CarasTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://gcdn-assets.phiztv.com/api-assets/17799126-aca4-4d91-977e-3e99410acaba.png" group-title="ABERTOS", BR IN TV (PHIZTV)
+https://77cdn-global.phiztv.com/live/159107ce-eaa5-4749-9e11-fafe3ec979cf/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal Gov" tvg-logo="https://imgur.com/s7BoZ89.jpg" group-title="ABERTOS", CANAL GOV
 https://canalgov-stream.ebc.com.br/index.m3u8
@@ -309,12 +268,8 @@ https://77cdn-global.phiztv.com/live/f4473c9c-711c-4e86-93fe-59557abe8bfd/index.
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="https://imgur.com/rZccZZJ.jpg" group-title="ABERTOS", CANAL RURAL (PHIZTV)
 https://77cdn-global.phiztv.com/live/970006d4-5090-4011-b77c-d791ed994af4/index.m3u8
 
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="https://imgur.com/rZccZZJ.jpg" group-title="ABERTOS", CANAL RURAL
-https://cdn-3.nxplay.com.br/COM_BRASIL/index.m3u8
- 
 #EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRA VIVA
-https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8?token=feae3ae46e13c1678350df2c372a59163c9ad27f-c93faaf4f5f0fcc2eb74a0f732899f7e-1740878456-1740835256
-
+https://origin-07.nxplay.com.br/TERRAVIVA_FAST/index.m3u8
 
 ************************************************************  ABERTOS INT  ************************************************************
 
@@ -486,7 +441,7 @@ https://linkplay.short.gy/NSPORTS/index.m3u8
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
-https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8?zoneid=24425&token=83a22c14a2e31a6eeade3d6dd5d5ced8e8374db7-3b8b82a56c04a8292a2569b9597cfadc-1775443981-1775400781
+https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (LGTV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
@@ -497,11 +452,17 @@ https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (TCLTV)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8
+
 #EXTINF:-1 tvg-id="canal-off" tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
 
 #EXTINF:-1 tvg-id="combate" tvg-logo="https://imgur.com/IQntT52.jpg" group-title="ESPORTE", CANAL COMBATE
 http://200.4.96.59:8825/play/a05v/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (SOPLAY)
+https://fast-channels.b-cdn.net/9978b7063e297d840d4dbff203680829/ogc/gptv/gptv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (TCLTV)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
@@ -555,35 +516,6 @@ http://200.4.96.59:8825/play/a06q/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/qB8ASYn.jpg" group-title="ESPORTE PPV", PARAMOUNT+ 4
 http://200.4.96.59:8825/play/a06z/index.m3u8
-
-************************************************************  ESPORTE 4K  ************************************************************
-
-#EXTINF:-1 tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="ESPORTE 4K", SKY SPORTS MAIN EVENT UHD
-https://a1xs.vip/2000015
-
-#EXTINF:-1 tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://i.ibb.co/1tmrNyj9/Sky-Sport-F1-UHD.png" group-title="ESPORTE 4K", SKY SPORTS F1 UHD
-https://a1xs.vip/2000016
-
-#EXTINF:-1 tvg-name="UK: TNT Sports Ultimate UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="ESPORTE 4K", TNT SPORTS ULTIMATE UHD
-https://a1xs.vip/2000031
-
-#EXTINF:-1 tvg-name="MY: Astro Sports UHD" tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="ESPORTE 4K", ASTRO SPORTS UHD
-https://a1xs.vip/9000001
-
-#EXTINF:-1 tvg-name="HK: Now Sports 1 4k" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="ESPORTE 4K", NOW SPORTS 1 4K
-https://a1xs.vip/9000011
-
-#EXTINF:-1 tvg-name="SG: Hub Premier 2 UHD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/Hubp2.png" group-title="ESPORTE 4K", HUB PREMIER 2 UHD
-https://a1xs.vip/9000012
-
-#EXTINF:-1 tvg-name="SE: V Sport Ultra HD" tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/v-sport-ultra.png" group-title="ESPORTE 4K", V SPORT ULTRA HD
-https://a1xs.vip/9000013
-
-#EXTINF:-1 tvg-name="US: NESN UHD" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="ESPORTE 4K", NESN UHD
-https://a1xs.vip/4000080
-
-#EXTINF:-1 tvg-name="Eleven Sports 1 4K" tvg-logo="https://i.imgur.com/k6MErsv.png" group-title="ESPORTE 4K", ELEVEN SPORTS 1 4K
-https://a1xs.vip/14001
 
 ************************************************************  FILMES  ************************************************************
 
@@ -828,9 +760,6 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playl
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EMHiUc3.png" group-title="ESPORTE INT", TENNIS +
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
-
-#EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" group-title="ESPORTE INT", TELEDEPORTE ES
-http://45.143.222.36:8290/stream/tify/teledeportehd/master.m3u8
 
 #EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" group-title="ESPORTE INT", TELEDEPORTE ES
 https://jmp2.uk/stvp-ESBC410000577
