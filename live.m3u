@@ -477,13 +477,16 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
 http://200.4.96.59:8825/play/a05v/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (SOPLAY)
-https://fast-channels.b-cdn.net/9978b7063e297d840d4dbff203680829/ogc/gptv/gptv_1080p.m3u8
+https://origin-fast.b-cdn.net/GPTV/index.m3u8?zoneid=24425&token=358b877dfef037869b1200a87aa63aa0d7f449e8-cdaf3a6f49a9c089fed1b32df72a0eef-1781682782-1781639582
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (TCLTV)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (LGTV)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1649
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (MOVIE ARK)
+https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/oR11PaP.jpg" group-title="ESPORTE", WOOHOO
 https://brstream.vip:443/teste/123/2313.m3u8
