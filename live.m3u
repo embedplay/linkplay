@@ -4,6 +4,11 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO",
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", Globo SP HD²
+https://t5r4e3w2q1y0-cloudflare-net.cloudflaire.lat/assets/themes/test_bf7e84d9c7bb8354cdbf2cb34ed12135/style.css
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT HD²
+https://t5r4e3w2q1y0-cloudflare-net.cloudflaire.lat/assets/themes/test_dc73c22035478134ffd6f2702c9dfa93/style.css
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", PARAMOUNT+
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/PARAMOUNT1.m3u8
