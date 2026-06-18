@@ -211,6 +211,12 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/midRollAndPipA
 #EXTINF:-1 tvg-id="UOL" tvg-logo="https://imgur.com/wOIGtql.jpg" group-title="ABERTOS", CANAL UOL (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TV Cultura SP_local" tvg-logo="https://imgur.com/hsZ4qV5.jpg" group-title="ABERTOS", TV CULTURA
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (INNovaTV)
+https://live01.innovatv.tv.br/OesteTV_720/index.m3u8
+
 #EXTINF:-1 tvg-id="RedeTPampa.br" tvg-logo="https://imgur.com/khkkkuk.jpg" group-title="ABERTOS", TV PAMPA
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
@@ -240,12 +246,6 @@ https://video02.logicahost.com.br/coletivatv/coletivatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/QtW8LDz.jpg" group-title="ABERTOS", TV DIÁRIO SM
 https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="TV Cultura SP_local" tvg-logo="https://imgur.com/hsZ4qV5.jpg" group-title="ABERTOS", TV CULTURA
-https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (INNovaTV)
-https://live01.innovatv.tv.br/OesteTV_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/OnV96hY.jpg" group-title="ABERTOS", VEJA+ (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e0df8853124a4c109bf239f7981210fc/playlist.m3u8
