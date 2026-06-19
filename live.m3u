@@ -461,7 +461,7 @@ https://linkplay.short.gy/NSPORTS/index.m3u8
 https://live01.innovatv.tv.br/Nsports_1080/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
-https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8
+https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8?zoneid=24425&token=0fea4567effe617f49faf9c71f99adba019f7275-9e9750af9b2e845a9052a083e721238f-1781908264-1781865064
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (LGTV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
