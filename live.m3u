@@ -461,7 +461,7 @@ https://linkplay.short.gy/NSPORTS/index.m3u8
 https://live01.innovatv.tv.br/Nsports_1080/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
-https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8?zoneid=24425&token=0fea4567effe617f49faf9c71f99adba019f7275-9e9750af9b2e845a9052a083e721238f-1781908264-1781865064
+https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8?zoneid=24425&token=f75793acbf41a27019e49f762db8fcdbdf38dd3d-fda0bf909d18a75716917cb968b13b08-1782294734-1782251534
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (LGTV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
@@ -479,7 +479,7 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (SOPLAY)
-https://origin-fast.b-cdn.net/GPTV/index.m3u8?zoneid=24425&token=358b877dfef037869b1200a87aa63aa0d7f449e8-cdaf3a6f49a9c089fed1b32df72a0eef-1781682782-1781639582
+https://origin-fast.b-cdn.net/GPTV/index.m3u8?zoneid=24425&token=6c82e80ab73bbc1fd2d6e3d979a08fc120669bb1-c7874be423695323cf359c73d9f430cc-1782294734-1782251534
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (TCLTV)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
