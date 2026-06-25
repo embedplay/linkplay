@@ -479,13 +479,16 @@ https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (SOPLAY)
-https://origin-fast.b-cdn.net/GPTV/index.m3u8?zoneid=24425&token=6c82e80ab73bbc1fd2d6e3d979a08fc120669bb1-c7874be423695323cf359c73d9f430cc-1782294734-1782251534
+https://origin-fast.b-cdn.net/GPTV/index.m3u8?zoneid=24425&token=f048b31138a29f6812a630800732296e81e7467a-345215754503865c6bbea1c19eca728d-1782427438-1782384238
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (TCLTV)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (LGTV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1649
+
+#EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (STV)
+https://ogc-gptv-samsungtvplus-br.otteravision.com/ogc/gptv/gptv_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GRANDE PRÊMIO TV (MOVIE ARK)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0019/playlist.m3u8
