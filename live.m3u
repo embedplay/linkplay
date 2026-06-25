@@ -425,10 +425,10 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b78b33e42744cf69addf997b9cd4d2e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (TCLTV)
-https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (LGTV)
-https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg17930-amg17930c2-amgplt0026/playlist.m3u8
+https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg17930-amg17930c2-amgplt0026/1a80db2c-709c-11f1-8c6a-76941cb8f6d2/121/1920x1080_6280560/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (STV)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -445,14 +445,14 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac55
 #EXTINF:-1 tvg-logo="https://imgur.com/Nuww1ci.jpg" group-title="ESPORTE", CAZÉTV 3 PRIME VIDEO
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/JHq8Clf.jpg" group-title="ESPORTE", CANAL GOAT (MOVIE ARK)
-https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3b40389cdb65c61e899848/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/JHq8Clf.jpg" group-title="ESPORTE", CANAL GOAT (LGTV)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=17183
+https://stream.ads.ottera.tv/cl/260625d8uj3go8se6c73asmk10/1920x1080_4215200_4_f.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/JHq8Clf.jpg" group-title="ESPORTE", CANAL GOAT (STV)
-https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt.m3u8
+https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/JHq8Clf.jpg" group-title="ESPORTE", CANAL GOAT (MOVIE ARK)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3b40389cdb65c61e899848/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS
 https://linkplay.short.gy/NSPORTS/index.m3u8
@@ -463,17 +463,17 @@ https://live01.innovatv.tv.br/Nsports_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
 https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8?zoneid=24425&token=f75793acbf41a27019e49f762db8fcdbdf38dd3d-fda0bf909d18a75716917cb968b13b08-1782294734-1782251534
 
+#EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (TCLTV)
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (LGTV)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=16337
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (STV)
-https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (TCLTV)
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/featuredImage.jpg" group-title="ESPORTE", RED BULL TV PLUTO BR
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
