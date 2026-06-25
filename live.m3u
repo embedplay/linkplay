@@ -428,7 +428,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b78b33e427
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (LGTV)
-https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg17930-amg17930c2-amgplt0026/1a80db2c-709c-11f1-8c6a-76941cb8f6d2/121/1920x1080_6280560/index.m3u8
+https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg17930-amg17930c2-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (STV)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
