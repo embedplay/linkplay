@@ -349,7 +349,7 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
 #EXTINF:-1 tvg-id="Sportv 4K" tvg-logo="https://imgur.com/CpVN9a9.jpg" group-title="ESPORTE", SPORTV 4K
 https://linkplay.short.gy/SPORTV4K/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/yD1yZHO.jpg" group-title="ESPORTE", SPORTV MOSAICO
+#EXTINF:-1 tvg-logo="https://s02.video.glbimg.com/x1080/13643133.jpg" group-title="ESPORTE", SPORTV MOSAICO
 https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
 
 #EXTINF:-1 tvg-id="sportv-2" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2
@@ -411,6 +411,9 @@ http://168.205.87.198:8555/live/1350/123456/309.m3u8
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS
 http://cdn38246.radiogaucha.net:80/f0nt3-tourobox-2819/Jdm8hXSSR3/2041075.m3u8
+
+#EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" group-title="ESPORTE", GE TV (GLOBOPLAY)
+https://linkplay.short.gy/GETVEXTRA/index.m3u8
 
 #EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (TCLTV)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8
