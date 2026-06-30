@@ -1,13 +1,24 @@
+https://www.chocopopflow.com/
+https://playervipmaster.com/
+https://multicanaistt.space/
+
 https://snippet.host/okjdzs/raw
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/live.m3u
 
-https://www.apsattv.com/vizio.m3u
-https://www.apsattv.com/distro.m3u
 
 https://www.apsattv.com/brlg.m3u - LG BR
 https://www.apsattv.com/ssungbra.m3u - Samsung BR
 https://www.apsattv.com/tclbr.m3u - TLC BR
-https://www.apsattv.com/moviearkbr.m3u
+https://www.apsattv.com/moviearkbr.m3u - MovieArk BR
+
+SPORTV 4K
+live/f(bMin=1000000,codec=hevc-hdr)/sport4k/playlist.m3u8
+
+
+
+https://www.apsattv.com/vizio.m3u
+https://www.apsattv.com/distro.m3u
+https://www.apsattv.com/freelivesports.m3u
 
 
 https://www.apsattv.com/lg.m3u
@@ -25,6 +36,8 @@ https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml
 https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml
 https://raw.githubusercontent.com/LITUATUI/M3UPT/main/EPG/epg-nos-pt.xml.xz
 http://epgontvhdbr.com/
+https://iptv-epg.org/files/epg-ar.xml
+https://iptv-epg.org/files/epg-uy.xml.gz
 
 
 https://embedtv.digital/
@@ -36,3 +49,5 @@ https://sinalpublico.vercel.app/eventos.html
 https://minhatela.xyz/
 
 https://playervipmaster.com/
+
+
