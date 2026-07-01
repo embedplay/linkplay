@@ -308,10 +308,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://imgur.com/QWLIvhE.jpg" group-title="ABERTOS INT", CNN POR
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
-https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u
+
+#EXTINF:-1 tvg-id="CNN PORTUGAL" tvg-logo="https://imgur.com/QWLIvhE.jpg" group-title="ABERTOS INT", CNN POR
+https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u8
 
 #EXTINF:-1 tvg-id="CNNenEspanol.ar" tvg-logo="https://imgur.com/UM8e0Hb.jpg" group-title="ABERTOS INT", CNÑ
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/CNNesp.playlist.m3u8
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CNN_ESP.m3u8
 
 #EXTINF:-1 tvg-id="CNBC" tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ABERTOS INT", CNBC US
 http://45.143.222.36:8589/stream/joyde/cnbc/master.m3u8
