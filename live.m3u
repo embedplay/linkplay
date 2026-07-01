@@ -141,11 +141,8 @@ https://aovivo.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/
 #EXTINF:-1 tvg-id="Record Porto Alegre HD" tvg-logo="https://imgur.com/d59Gz8F.jpg" group-title="ABERTOS", RECORD RS
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RECORD_RS.m3u8
 
-#EXTINF:-1 tvg-id="Record Porto Alegre HD" tvg-logo="https://imgur.com/d59Gz8F.jpg" group-title="ABERTOS", RECORD RS (HPLAY)
-https://hplay.tv/live/augetv/12396547488/50.m3u8
-
-#EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD SP (HPLAY)
-https://hplay.tv:443/augetv/12396547488/227.m3u8
+#EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD SP
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RECORD_SP.m3u8
 
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD RJ (VIVATELE)
 https://iptv.vivatele.com:443/live/viva_padrao/viva2384/13.m3u8
