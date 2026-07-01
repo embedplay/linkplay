@@ -90,8 +90,8 @@ https://hplay.tv/live/augetv/12396547488/1100052.m3u8
 #EXTINF:-1 tvg-id="Globosp.br" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP (HPLAY)
 https://hplay.tv:443/augetv/12396547488/7410.m3u8
 
-#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ (VIVATELE)
-https://gerenciar.vivatele.com:443/live/viva_padrao/viva2384/1.m3u8
+#EXTINF:-1 tvg-id="Globo RJ" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/GLOBO_RJ.m3u8
 
 #EXTINF:-1 tvg-id="NSCfloripa.br" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSCTV SC (HPLAY)
 https://hplay.tv/augetv/12396547488/9.m3u8
