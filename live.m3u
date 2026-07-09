@@ -2,16 +2,35 @@
 
 ************************************************************  AO VIVO  ************************************************************
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO",
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO",ESPN LAT
-http://179.60.51.134:8888/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO",ESPN 2 LAT
-http://179.60.51.134:8888/ESPN2/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO RJ TESTE
+http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO",ESPN 3 LAT
-http://179.60.51.134:8888/ESPN3/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", BAND RJ TESTE
+http://186.227.63.210:5000/live/BANDRJ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT RJ TESTE
+http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", RECORD RJ TESTE
+http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO SP
+http://streamer.sattvacabo.com.br/GLOBO_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", BAND
+http://streamer.sattvacabo.com.br/BAND_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT
+http://streamer.sattvacabo.com.br/SBT_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", RECORD
+http://streamer.sattvacabo.com.br/RECORD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", REDETV
+http://streamer.sattvacabo.com.br/REDE_TV_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
 http://79.127.238.228:14093/globonews_720
@@ -353,7 +372,7 @@ http://tv.zapping.life:8080/live/Maximo003/dNyY9k8v4N/8535.m3u8
 
 ************************************************************  ESPORTE  ************************************************************  
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV (GLOBOPLAY)
@@ -368,13 +387,13 @@ https://linkplay.short.gy/SPORTV4K/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s02.video.glbimg.com/x1080/13643133.jpg" group-title="ESPORTE", SPORTV MOSAICO (GLOBOPLAY)
 https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2 (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3 (GLOBOPLAY)
@@ -392,29 +411,68 @@ https://linkplay.short.gy/SPORTV6/index.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN
 https://linkplay.short.gy/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1114.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN (SATTV)
+http://streamer.sattvacabo.com.br/ESPN_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN (SUA.TV)
+http://hls1.sua.tv/live/espnhd/s.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2
 https://linkplay.short.gy/ESPN_2/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2 (SATTV)
+http://streamer.sattvacabo.com.br/ESPN2_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE", ESPN 2 (SUA.TV)
+http://hls1.sua.tv/live/espn2hd/s.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3
 https://linkplay.short.gy/ESPN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3 (STONETV)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1140.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3 (SATTV)
+http://streamer.sattvacabo.com.br/ESPN3_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE", ESPN 3 (SUA.TV)
+http://hls1.sua.tv/live/espn3hd/s.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4
 https://linkplay.short.gy/ESPN_4/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1159.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4 (SATTV)
+http://streamer.sattvacabo.com.br/ESPN4_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE", ESPN 4 (SUA.TV)
+http://hls1.sua.tv/live/espn4hd/s.m3u8
 
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5
 https://linkplay.short.gy/ESPN_5/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5 (SATTV)
+http://streamer.sattvacabo.com.br/ESPN5/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5 (SUA.TV)
+http://hls1.sua.tv/live/espn5hd/s.m3u8
+
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6
 https://linkplay.short.gy/ESPN_6/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1131.m3u8
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6 (SATTV)
+http://streamer.sattvacabo.com.br/ESPN_EXTRA_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6 (SUA.TV)
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 
 #EXTINF:-1 tvg-id="Bandsports HD" #EXTINF:-1 tvg-logo="https://imgur.com/X38gYdK.jpg" group-title="ESPORTE", BAND SPORTS
 https://cdn-5.nxplay.com.br/BAND_SPORTS_NX/index.m3u8
@@ -425,14 +483,14 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
 #EXTINF:-1 tvg-id="SportyNet" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTYNET.m3u8
 
-#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS
-https://linkplay.short.gy/XSPORTS/index.m3u8
-
-#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS
-http://168.205.87.198:8555/live/1350/123456/309.m3u8
+#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS (SATTV)
+http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS
 http://cdn38246.radiogaucha.net:80/f0nt3-tourobox-2819/Jdm8hXSSR3/2041075.m3u8
+
+#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS
+http://168.205.87.198:8555/live/1350/123456/309.m3u8
 
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x720/11134179.jpg" group-title="ESPORTE", GE TV (GLOBOPLAY)
 https://linkplay.short.gy/GETV/index.m3u8
@@ -643,25 +701,25 @@ http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-96_720.m
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-95_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE LAT", ESPN LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN/40-hls/live-media.m3u8
+http://179.60.51.134:8888/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE LAT", ESPN 2 LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN2/40-hls/live-media.m3u8
+http://179.60.51.134:8888/ESPN2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE LAT", ESPN 3 LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN3/40-hls/live-media.m3u8
+http://179.60.51.134:8888/ESPN3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE LAT", ESPN 4 LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN4/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE LAT", ESPN 5 LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN5/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE LAT", ESPN 6 LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN6/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cyhzGVC.jpg" group-title="ESPORTE LAT", ESPN 7 LAT
-https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/ESPN7/40-hls/live-media.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://imgur.com/rbPVbSM.jpg" group-title="ESPORTE LAT", ESPN PREMIUM AR
 http://201.217.246.177:8000/play/a078/index.m3u8
@@ -757,7 +815,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/648c2a27976ee900085a8524/featuredImage.jpg" group-title="ESPORTE INT", MY PADEL TV
-https://jmp2.uk/stvp-ES30000091V
+https://daiconnect.com/live/hls/tvup/sportsstudios-mypadeltv/.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6549306c83595c000815a696/featuredImage.jpg" group-title="ESPORTE INT", NBC SPORTS
 https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
@@ -848,6 +906,65 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 
 #EXTINF:-1 tvg-logo="https://imgur.com/EHNOoOy.png" group-title="ESPORTE INT", YAHOO SPORTS NETWORK US
 https://yahoo.global.transmit.live/hls/6862d5fd233e6604b8b457c6/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
+
+************************************************************  ESPORTE PORTUGAL  ************************************************************
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 4
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv4.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 1
+http://94.130.32.19:8080/sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 2
+http://94.130.32.19:8080/sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 3
+http://94.130.32.19:8080/sporttv3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 4
+http://94.130.32.19:8080/sporttv4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 5
+http://94.130.32.19:8080/sporttv5/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 6
+http://94.130.32.19:8080/sporttv6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 7
+http://94.130.32.19:8080/sporttv7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 1
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/ele1.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 2
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/ele2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 3
+https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/ele3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 1
+http://94.130.32.19:8080/dazn1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 2
+http://94.130.32.19:8080/dazn2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 3
+http://94.130.32.19:8080/dazn3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 4
+http://94.130.32.19:8080/dazn4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", DAZN 5
+http://94.130.32.19:8080/dazn5/index.m3u8
 
 ************************************************************  ESPORTE RBTV  ************************************************************
 
