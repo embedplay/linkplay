@@ -85,19 +85,22 @@ https://linkplay.short.gy/GLOBORJ/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ
 http://186.227.63.210:5000/live/GLOBORJ/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSC TV SC
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/MQgWRvS.jpg" group-title="ABERTOS", NSC TV SC (GLOBOPLAY)
 https://linkplay.short.gy/NSCTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC TV PR
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC TV PR (GLOBOPLAY)
 https://linkplay.short.gy/RPCTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC TV PR
+https://cdn-sp2.satlabscloud.com.br/RPC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOMG/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF (GLOBOPLAY)
 https://linkplay.short.gy/GLOBODF/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/iJBfVOB.jpg" group-title="ABERTOS", GLOBO BA
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/iJBfVOB.jpg" group-title="ABERTOS", GLOBO BA (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOBA/index.m3u8
 
 #EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS (BANDPLAY)
@@ -107,7 +110,7 @@ https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDIxMDE2NywibmJmIjoxNzg0MjEwMTY3LCJleHAiOjE3ODY4MDIxNjcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.OTSMkgj_NeHT0MdSQeCTmV88UwlwFM0oU6xZoqAX7AE&uid=fb937003-4070-4a02-b343-c060259d5ed9
 
 #EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDIxMDE2NywibmJmIjoxNzg0MjEwMTY3LCJleHAiOjE3ODY4MDIxNjcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.OTSMkgj_NeHT0MdSQeCTmV88UwlwFM0oU6xZoqAX7AE&uid=fb937003-4070-4a02-b343-c060259d5ed9
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-1080p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDY2MTcxOCwibmJmIjoxNzg0NjYxNzE4LCJleHAiOjE3ODcyNTM3MTgsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.NMLGGKqsd8tVtn4jycQ4eo16rShRXsMb0LLVe2xVHBI&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
 
 #EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 
@@ -437,6 +440,9 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPO
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS (SATTV)
 http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/14335647.jpg" group-title="ESPORTE", GLOBOPLAY F1 (GLOBOPLAY)
+https://linkplay.short.gy/GLOBOPLAYF1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/11134179.jpg" group-title="ESPORTE", GE TV (GLOBOPLAY)
 https://linkplay.short.gy/GETV/index.m3u8
