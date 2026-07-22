@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TESTE NSC 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", NSC TV ??? (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/NSC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
@@ -70,7 +70,7 @@ https://linkplay.short.gy/RBSTVPOA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM (GLOBOPLAY)
 https://linkplay.short.gy/RBSTVSM/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP (GLOBOPLAY)
@@ -91,7 +91,7 @@ https://linkplay.short.gy/NSCTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC TV PR (GLOBOPLAY)
 https://linkplay.short.gy/RPCTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC TV PR
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/hM5oDXc.jpg" group-title="ABERTOS", RPC TV PR (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/RPC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG (GLOBOPLAY)
@@ -104,13 +104,13 @@ https://linkplay.short.gy/GLOBODF/index.m3u8
 https://linkplay.short.gy/GLOBOBA/index.m3u8
 
 #EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDIxMDE2NywibmJmIjoxNzg0MjEwMTY3LCJleHAiOjE3ODY4MDIxNjcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.OTSMkgj_NeHT0MdSQeCTmV88UwlwFM0oU6xZoqAX7AE&uid=fb937003-4070-4a02-b343-c060259d5ed9
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDc0Nzc3MCwibmJmIjoxNzg0NzQ3NzcwLCJleHAiOjE3ODczMzk3NzAsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.IVvHpHrS_nCN2l7pBGoug_MYTNFCcpIqUxBAeIZWjsU&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
 
 #EXTINF:-1 tvg-id="Band HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDIxMDE2NywibmJmIjoxNzg0MjEwMTY3LCJleHAiOjE3ODY4MDIxNjcsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImZiOTM3MDAzLTQwNzAtNGEwMi1iMzQzLWMwNjAyNTlkNWVkOSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.OTSMkgj_NeHT0MdSQeCTmV88UwlwFM0oU6xZoqAX7AE&uid=fb937003-4070-4a02-b343-c060259d5ed9
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMzMjI2NDMxLWE3MjctNDNmYi1hYzA0LWJhNGU0MDU3YzQ2NCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDc0Nzc4OCwibmJmIjoxNzg0NzQ3Nzg4LCJleHAiOjE3ODczMzk3ODgsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6ImMzMjI2NDMxLWE3MjctNDNmYi1hYzA0LWJhNGU0MDU3YzQ2NCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.6rN3k1QPFDuFaS0yOKtsRFriHVkpGjXtDou3S4fTFjk&uid=c3226431-a727-43fb-ac04-ba4e4057c464
 
 #EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDcxOTcwNiwibmJmIjoxNzg0NzE5NzA2LCJleHAiOjE3ODczMTE3MDYsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.-SkJgcokpMaXl9EEdv3ybkal1pjDeVjrHOf0RbCW3SA&uid=41144dfe-0c64-4d84-809e-30e09358f0aa&magica=sim
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDc0NzgwOSwibmJmIjoxNzg0NzQ3ODA5LCJleHAiOjE3ODczMzk4MDksInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.v-EW2TiPyojjcQnnzblDz9uQY4eMC8Ygujlx5h1gwc8&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
 
 #EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 
@@ -495,8 +495,11 @@ http://streamer.sattvacabo.com.br/NSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (INNovaTV)
 https://live01.innovatv.tv.br/Nsports_1080/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SOPLAY)
-https://cdn-5.nxplay.com.br/NSPORTS/index.m3u8?zoneid=24425&token=f75793acbf41a27019e49f762db8fcdbdf38dd3d-fda0bf909d18a75716917cb968b13b08-1782294734-1782251534
+#EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS 
+https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
+
+#EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SATLABS)
+https://cdn-sp2.satlabscloud.com.br/NSPORTS/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (TCLTV)
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_1080p.m3u8
@@ -617,10 +620,10 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.m3u8
 #EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://imgur.com/sNeQH4w.jpg" group-title="FILMES", TELECINE CULT
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.m3u8
 
-#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/JZsc2kf.jpg" group-title="FILMES", TNT
+#EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/JZsc2kf.jpg" group-title="FILMES", TNT (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/keRP8bD.jpg" group-title="FILMES", SPACE
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/keRP8bD.jpg" group-title="FILMES", SPACE (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
 #EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="General Streams", HBO
