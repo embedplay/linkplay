@@ -345,11 +345,11 @@ http://tv.zapping.life:8080/live/Maximo003/dNyY9k8v4N/8535.m3u8
 
 ************************************************************  ESPORTE  ************************************************************  
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV (STONETV)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/RBQZxw5.jpg" group-title="ESPORTE", SPORTV (STONETV)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1141.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/woNtFa8.jpg" group-title="ESPORTE", SPORTV 2K (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV2K/index.m3u8
@@ -360,17 +360,17 @@ https://linkplay.short.gy/SPORTV4K/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s02.video.glbimg.com/x1080/13643133.jpg" group-title="ESPORTE", SPORTV MOSAICO (GLOBOPLAY)
 https://linkplay.short.gy/SPORTVMOSAICO/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2 (STONETV)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2 (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3 (STONETV)
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/uCRZnRE.jpg" group-title="ESPORTE", SPORTV 2 (STONETV)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3 (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3 (STONETV)
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l4MbRQG.jpg" group-title="ESPORTE", SPORTV 4
 https://linkplay.short.gy/SPORTV4/index.m3u8
@@ -493,7 +493,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3
 http://streamer.sattvacabo.com.br/NSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (INNovaTV)
-https://live01.innovatv.tv.br/Nsports_1080/tracks-v1a1/mono.m3u8
+https://live01.innovatv.tv.br/Nsports_1080/index.m3u8
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS 
 https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
@@ -537,11 +537,11 @@ https://linkplay.short.gy/COMBATE/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69a20556814d27f4ae630a92/featuredImage.jpg" group-title="ESPORTE", UFC TV PLUTO BR
 https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
-http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
-
 #EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF (GLOBOPLAY)
 https://linkplay.short.gy/CANALOFF/index.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
+http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/featuredImage.jpg" group-title="ESPORTE", RED BULL TV PLUTO BR
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
@@ -553,6 +553,9 @@ http://streamer.sattvacabo.com.br/WOOHOO/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
 
 ************************************************************  ESPORTE PPV  ************************************************************  
+
+#EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC (GLOBOPLAY)
+https://linkplay.short.gy/PREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.m3u8
