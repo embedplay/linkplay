@@ -104,13 +104,13 @@ https://linkplay.short.gy/GLOBODF/index.m3u8
 https://linkplay.short.gy/GLOBOBA/index.m3u8
 
 #EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDc0Nzc3MCwibmJmIjoxNzg0NzQ3NzcwLCJleHAiOjE3ODczMzk3NzAsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.IVvHpHrS_nCN2l7pBGoug_MYTNFCcpIqUxBAeIZWjsU&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BAND_RS.m3u8
 
 #EXTINF:-1 tvg-id="Band HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImMzMjI2NDMxLWE3MjctNDNmYi1hYzA0LWJhNGU0MDU3YzQ2NCIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDc0Nzc4OCwibmJmIjoxNzg0NzQ3Nzg4LCJleHAiOjE3ODczMzk3ODgsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6ImMzMjI2NDMxLWE3MjctNDNmYi1hYzA0LWJhNGU0MDU3YzQ2NCIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.6rN3k1QPFDuFaS0yOKtsRFriHVkpGjXtDou3S4fTFjk&uid=c3226431-a727-43fb-ac04-ba4e4057c464
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BAND_SP.m3u8
 
 #EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
-https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDc0NzgwOSwibmJmIjoxNzg0NzQ3ODA5LCJleHAiOjE3ODczMzk4MDksInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.v-EW2TiPyojjcQnnzblDz9uQY4eMC8Ygujlx5h1gwc8&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/BAND_RJ.m3u8
 
 #EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 
