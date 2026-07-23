@@ -163,7 +163,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS 
 http://streamer.sattvacabo.com.br/BAND_NEWS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
-#EXTINF:-1 tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png", RÁDIO BAND NEWS FM
+#EXTINF:-1 tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png", group-title="ABERTOS", RÁDIO BAND NEWS FM
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (TCLTV)
@@ -605,22 +605,22 @@ http://200.4.96.59:8825/play/a06z/index.m3u8
 
 ************************************************************  FILMES  ************************************************************
 
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://imgur.com/oGMzvly.jpg" group-title="FILMES", TELECINE PREMIUM
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://s03.video.glbimg.com/x1080/10221110.jpg" group-title="FILMES", TELECINE PREMIUM
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://imgur.com/ugltVIx.jpg" group-title="FILMES", TELECINE ACTION
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://s01.video.glbimg.com/x1080/10221184.jpg" group-title="FILMES", TELECINE ACTION
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://imgur.com/rzUQkGq.jpg" group-title="FILMES", TELECINE TOUCH
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://s04.video.glbimg.com/x1080/10221239.jpg" group-title="FILMES", TELECINE TOUCH
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1070.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://imgur.com/M3uXo5D.jpg" group-title="FILMES", TELECINE FUN
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://s03.video.glbimg.com/x1080/10223522.jpg" group-title="FILMES", TELECINE FUN
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1073.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://imgur.com/kqGhJNj.jpg" group-title="FILMES", TELECINE PIPOCA
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://s02.video.glbimg.com/x1080/10221225.jpg" group-title="FILMES", TELECINE PIPOCA
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://imgur.com/sNeQH4w.jpg" group-title="FILMES", TELECINE CULT
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://s02.video.glbimg.com/x1080/10221109.jpg" group-title="FILMES", TELECINE CULT
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/JZsc2kf.jpg" group-title="FILMES", TNT (SATLABS)
@@ -629,17 +629,12 @@ https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 #EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/keRP8bD.jpg" group-title="FILMES", SPACE (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="General Streams", HBO
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="FILMES", HBO
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="General Streams", HBO 2
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="FILMES", HBO 2
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
 
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://imgur.com/3vQRTvF.jpg" group-title="FILMES", AXN
-
-
-#EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://imgur.com.jpg" group-title="FILMES", A&E
-http://200.4.96.59:8825/play/a082/index.m3u8
 
 ************************************************************  ESPORTE LATINO  ************************************************************
 
