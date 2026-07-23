@@ -268,11 +268,11 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/cSGtFbn.jpg" group-title="ABERTOS", TV BRASIL INT
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+
+#EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+ (SATTV)
 http://streamer.sattvacabo.com.br/AGROMAIS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
-https://cdn-3.nxplay.com.br/CANAL_DO_BOI_TK/index.m3u8
+http://45.162.64.114/CANAL_DO_BOI/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal do Criador" tvg-logo="https://imgur.com/cpUUpPR.jpg" group-title="ABERTOS", CANAL DO CRIADOR (PHIZTV)
 https://77cdn-global.phiztv.com/live/f4473c9c-711c-4e86-93fe-59557abe8bfd/index.m3u8
