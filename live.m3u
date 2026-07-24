@@ -5,6 +5,18 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", NSC TV
+https://rdcanais.net/globosc
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 2
+http://45.134.141.161:2200/BRX/Paramount2_Plus_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 3
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 4
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", NSC TV ??? (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/NSC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
@@ -104,13 +116,13 @@ https://linkplay.short.gy/GLOBODF/index.m3u8
 https://linkplay.short.gy/GLOBOBA/index.m3u8
 
 #EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS (BANDPLAY)
-https://jqdqa1.short.gy/BAND_RS/index.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDgzNzE0MywibmJmIjoxNzg0ODM3MTQzLCJleHAiOjE3ODc0MjkxNDMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.cOLOdl9nHDkleBqDtmAaJvWkn9i8CLL0Tqy1kimIm00&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
 
 #EXTINF:-1 tvg-id="Band HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP (BANDPLAY)
-https://jqdqa1.short.gy/BAND_SP/index.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDgzNzE3NywibmJmIjoxNzg0ODM3MTc3LCJleHAiOjE3ODc0MjkxNzcsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.IMZbMInOz7wJps6C957cymFl8eRd775xX0_YdwzxR-k&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
 
 #EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
-https://jqdqa1.short.gy/BAND_RJ/index.m3u8
+https://hqf6tcxuhk.singularcdn.net.br/live/0194f211-4229-749f-a47e-58f819471024/s1/playlist-720p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc4NDgzNzIwNCwibmJmIjoxNzg0ODM3MjA0LCJleHAiOjE3ODc0MjkyMDQsInVyaV9zdWIiOiIvMDE5NGYyMTEtNDIyOS03NDlmLWE0N2UtNThmODE5NDcxMDI0LyIsInVpZCI6IjQxMTQ0ZGZlLTBjNjQtNGQ4NC04MDllLTMwZTA5MzU4ZjBhYSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.D9N9PVjeHh6HiNSmQwnyuy7Tgk4n8X1KquLNRk-Llbg&uid=41144dfe-0c64-4d84-809e-30e09358f0aa
 
 #EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 
@@ -163,7 +175,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS 
 http://streamer.sattvacabo.com.br/BAND_NEWS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
-#EXTINF:-1 tvg-logo="https://d1hiif9y3rkpbt.cloudfront.net/Images/S3/LG_artwork/Logo-400x200.png", group-title="ABERTOS", RÁDIO BAND NEWS FM
+#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BAND NEWS FM
 https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (TCLTV)
@@ -372,13 +384,13 @@ https://linkplay.short.gy/SPORTV3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/xrQmNRn.jpg" group-title="ESPORTE", SPORTV 3 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1079.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l4MbRQG.jpg" group-title="ESPORTE", SPORTV 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l4MbRQG.jpg" group-title="ESPORTE", SPORTV 4 (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/gE50TkC.jpg" group-title="ESPORTE", SPORTV 5
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/gE50TkC.jpg" group-title="ESPORTE", SPORTV 5 (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV5/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/oBEop4C.jpg" group-title="ESPORTE", SPORTV 6
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/oBEop4C.jpg" group-title="ESPORTE", SPORTV 6 (GLOBOPLAY)
 https://linkplay.short.gy/SPORTV6/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE", ESPN (SATTV)
