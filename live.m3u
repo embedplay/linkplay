@@ -134,7 +134,7 @@ http://streamer.sattvacabo.com.br/SBT_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f
 http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/WIiDeA0.jpg" group-title="ABERTOS", +SBT
-https://media.cdntvms.com.br/sbt_sat/index.m3u8
+https://aovivo.maissbt.com/channel_1080.m3u8
 
 #EXTINF:-1 tvg-id="Record Porto Alegre HD" tvg-logo="https://imgur.com/d59Gz8F.jpg" group-title="ABERTOS", RECORD RS
 
@@ -452,6 +452,9 @@ https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPO
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS (SATTV)
 http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+
+#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/vSXqnmX.jpg" group-title="ESPORTE", X SPORTS (STV)
+https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/14335647.jpg" group-title="ESPORTE", GLOBOPLAY F1 (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOPLAYF1/index.m3u8
