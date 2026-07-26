@@ -504,6 +504,12 @@ https://cng-cngt-samsungtvplus-br.otteravision.com/cng/cngt/cngt_1080.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/JHq8Clf.jpg" group-title="ESPORTE", CANAL GOAT (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/12b1b2de9b3b40389cdb65c61e899848/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/5h6EeEW.jpg" group-title="ESPORTE", SBT SPORTS
+https://eventos.maissbt.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_MARATHON/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/5h6EeEW.jpg" group-title="ESPORTE", SBT SPORTS
+https://eventos.maissbt.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/SSAI_MARATHON/887bbb41-f437-4078-8dae-366f6c331be4/0.m3u8
+
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SATTV)
 http://streamer.sattvacabo.com.br/NSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
