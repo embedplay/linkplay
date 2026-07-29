@@ -578,17 +578,26 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da
 
 ************************************************************  ESPORTE PPV  ************************************************************  
 
-#EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC (GLOBOPLAY)
+#EXTINF:-1 tvg-id=""premiere" tvg-logo="https://s04.video.glbimg.com/x1080/8223631.jpg" group-title="ESPORTE PPV", PFC (GLOBOPLAY)
 https://linkplay.short.gy/PREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.m3u8
 
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://s02.video.glbimg.com/x1080/8221785.jpg" group-title="ESPORTE PPV", PREMIERE 2 (GLOBOPLAY)
+https://linkplay.short.gy/PREMIERE3/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 2
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
 
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://s04.video.glbimg.com/x1080/8221827.jpg" group-title="ESPORTE PPV", PREMIERE 3 (GLOBOPLAY)
+https://linkplay.short.gy/PREMIERE3/index.m3u8
+
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 3
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
+
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://s01.video.glbimg.com/x1080/8221820.jpg" group-title="ESPORTE PPV", PREMIERE 4 (GLOBOPLAY)
+https://linkplay.short.gy/PREMIERE4/index.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 4
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
