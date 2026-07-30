@@ -474,9 +474,6 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index
 #EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b78b33e42744cf69addf997b9cd4d2e/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (YOUTUBE)
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785051178/ei/ymNlat7iLbfW1sQP6cOngAs/ip/187.102.82.245/id/58K6dkZmL3Q.5/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr1---sn-458pxgvq05-0gbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ctier/SPL/gcr/br/ss/1/bui/AZFlqhPSEpp826A4r3Ps6WaKQLBjldSGQPo1dWS0UHZZxrSrd75GSGhVXZaM0UZPYEwU6-h1197M5a4R/spc/SQ-umrMNinAei_w9njL4trceELLkQLeaJFi088i2xlEVwXAdAg/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1830000/met/1785029579,/mh/it/mm/44/mn/sn-458pxgvq05-0gbe/ms/lva/mv/m/mvi/1/pl/23/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992868/mt/1785029060/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ctier,gcr,ss,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRAIgBRgYpj2c0thqwEQ4G9phSWpmapU-spqOZO-F1lNi2oQCIAzpL_6wpibDRwZJ8lBjhQe-P9q8AJPM3oT_iU1NCVp_/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgRQIqtZ0em6Wt_Sg5fBiPlrqlyCjOa6jHwCLjS5YKzrUCIQDFszrfJBTNJBbK97SCXokZ3VxNAVr1VfzCmwcny0h9jA%3D%3D/playlist/index.m3u8
-
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (TCLTV)
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
@@ -552,11 +549,14 @@ https://ogc-gptv-samsungtvplus-br.otteravision.com/ogc/gptv/gptv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (MOVIE ARK)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0019/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://s01.video.glbimg.com/x1080/8310612.jpg" group-title="ESPORTE", CANAL COMBATE (GLOBOPLAY)
+https://linkplay.short.gy/COMBATE/index.m3u8
+
 #EXTINF:-1 tvg-id="combate" tvg-logo="https://imgur.com/IQntT52.jpg" group-title="ESPORTE", CANAL COMBATE
 https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CANALCOMBATE.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/IQntT52.jpg" group-title="ESPORTE", CANAL COMBATE (GLOBOPLAY)
-https://linkplay.short.gy/COMBATE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/IQntT52.jpg" group-title="ESPORTE", CANAL COMBATE
+https://143.14.134.107/167/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69a20556814d27f4ae630a92/featuredImage.jpg" group-title="ESPORTE", UFC TV PLUTO BR
 https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
