@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+## 7d288c2d7c0d9327ef5100540084c4260d04d3715b8519074f4565ad2fe667fb
+## Created with Unified Streaming Platform  (version=1.14.4-30793)
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=206000,AVERAGE-BANDWIDTH=187000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=256x144,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/640x360/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBbPycgGgF36HhTQwxYQBPkpWEyBMQUPcqe71uWHeEkHs&content_livestream=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=299000,AVERAGE-BANDWIDTH=272000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=384x216,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/640x360/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBYdXl6ADOeTsOywKuF050JumJFzusfY%252FxFC%252FOXeucz5t&content_livestream=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=479000,AVERAGE-BANDWIDTH=435000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=512x288,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/640x360/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBai7A6BlEwtoE0HewJdE8AqSkLJ7jC9D01kM0WCtLN2h&content_livestream=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=764000,AVERAGE-BANDWIDTH=695000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=640x360,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/640x360/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBUGqmeSeDPva7baZHYfJr2rldzgpQWbuTxPUcL1fRyJV&content_livestream=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=1224000,AVERAGE-BANDWIDTH=1112000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=768x432,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/640x360/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBZcXWFu%252BHGZKeXLqyWkh5yjN1pSgZ5VhYsTJmRRb0S%252B7&content_livestream=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=1835000,AVERAGE-BANDWIDTH=1668000,CODECS="mp4a.40.2,avc1.64001F",RESOLUTION=1280x720,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/1280x720/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBYdXl6ADOeTsOywKuF050Jtj8rr7sEga0x7SOjPGf99V&content_livestream=1
+
+#EXT-X-STREAM-INF:BANDWIDTH=2751000,AVERAGE-BANDWIDTH=2501000,CODECS="mp4a.40.2,avc1.640029",RESOLUTION=1280x720,FRAME-RATE=30
+https://ffalconnow-us.api.leiniao.com/media-channel-api/ffalcon/RestreamLive/v1/685e4ad9298d37c2bc151f8c/1280x720/playlist.m3u8?path=PYKTPTZMcbeLSVuD6WCcBRcA2kE8GYEBXXmZUyd%252FLUn5go2vp30vxb722dENb8gC&content_livestream=1
