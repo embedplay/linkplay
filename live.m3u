@@ -64,14 +64,14 @@ http://46.151.196.223:14468/combate_720
 
 ************************************************************  ABERTOS  ************************************************************
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM (GLOBOPLAY)
+https://linkplay.short.gy/RBSTVSM/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (GLOBOPLAY)
 https://linkplay.short.gy/RBSTVPOA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (MEGAFLIX)
 https://megaflix.mgfiles.lat/a3138cb07e5978fb23f586ca1d7a1841/file.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM (GLOBOPLAY)
-https://linkplay.short.gy/RBSTVSM/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -445,16 +445,13 @@ http://streamer.sattvacabo.com.br/BAND_SPORTS_HD/index.m3u8?token=TLGacFXd0gIXIu
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/SPORTYNET.m3u8
-
-#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS (SATTV)
-http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://177.52.24.163/SPORTYNET/index.m3u8
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/vSXqnmX.jpg" group-title="ESPORTE", X SPORTS (STV)
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/14335647.jpg" group-title="ESPORTE", GLOBOPLAY F1 (GLOBOPLAY)
-https://linkplay.short.gy/GLOBOPLAYF1/index.m3u8
+#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS (SATTV)
+http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/11134179.jpg" group-title="ESPORTE", GE TV (GLOBOPLAY)
 https://linkplay.short.gy/GETV/index.m3u8
@@ -530,6 +527,9 @@ https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/lgkVTLH.jpg" group-title="ESPORTE", N SPORTS FAST (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc24b80ac2737ef1d36210e/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/14335647.jpg" group-title="ESPORTE", GLOBOPLAY F1 (GLOBOPLAY)
+https://linkplay.short.gy/GLOBOPLAYF1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (SOPLAY)
 https://origin-fast.b-cdn.net/GPTV/index.m3u8?zoneid=24425&token=f048b31138a29f6812a630800732296e81e7467a-345215754503865c6bbea1c19eca728d-1782427438-1782384238
