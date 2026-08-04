@@ -5,6 +5,12 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", CBN SP
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CBN_RJ.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", CBN RJ
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CBN_RJ.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", NSC TV
 https://rdcanais.net/globosc
 
@@ -17,11 +23,11 @@ http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 4
 http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", NSC TV ??? (SATLABS)
-https://cdn-sp2.satlabscloud.com.br/NSC_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
 http://79.127.238.228:14093/globonews_720
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS HD
+http://79.127.243.211:14254/globonews_1080
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
 http://46.151.196.223:14284/sportv_1080
@@ -79,6 +85,9 @@ http://46.151.196.223:14468/combate_720
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (GLOBOPLAY)
 https://linkplay.short.gy/RBSTVPOA/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (MEGAFLIX)
+https://megaflix.mgfiles.lat/a3138cb07e5978fb23f586ca1d7a1841/file.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM (GLOBOPLAY)
 https://linkplay.short.gy/RBSTVSM/index.m3u8
 
@@ -88,8 +97,8 @@ https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOSP/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP
-http://streamer.sattvacabo.com.br/GLOBO_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP (SATLABS)
+https://cdn-sp2.satlabscloud.com.br/GLOBO_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/lcSElss.jpg" group-title="ABERTOS", GLOBO RJ (GLOBOPLAY)
 https://linkplay.short.gy/GLOBORJ/index.m3u8
@@ -109,6 +118,9 @@ https://cdn-sp2.satlabscloud.com.br/RPC/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQv
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOMG/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG (MEGAFLIX)
+https://megaflix.mgfiles.lat/2ba6636b5c30affbdac54fd41469f3b8/file.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF (GLOBOPLAY)
 https://linkplay.short.gy/GLOBODF/index.m3u8
 
@@ -127,8 +139,8 @@ https://jqdqa1.short.gy/BAND_RJ/index.m3u8
 #EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT SP (SATTV)
-http://streamer.sattvacabo.com.br/SBT_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT SP
+
 
 #EXTINF:-1 tvg-id="SBT Rio" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT RJ
 http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
@@ -232,6 +244,9 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (INNovaTV)
 https://live01.innovatv.tv.br/OesteTV_720/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (GBPlay)
+https://origin-fast.b-cdn.net/OESTE_TV/index.m3u8
+
 #EXTINF:-1 tvg-id="RedeTPampa.br" tvg-logo="https://imgur.com/khkkkuk.jpg" group-title="ABERTOS", TV PAMPA
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 
@@ -280,8 +295,8 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/cSGtFbn.jpg" group-title="ABERTOS", TV BRASIL INT
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+ (SATTV)
-http://streamer.sattvacabo.com.br/AGROMAIS_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+ (MULTTV)
+https://cdnvipwaytv.multtv.tv.br:5443/DbcrQOaeRXYSrB736Umr-A/1785926962/Agromais/video.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
 http://45.162.64.114/CANAL_DO_BOI/playlist.m3u8
@@ -516,7 +531,7 @@ http://streamer.sattvacabo.com.br/NSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (INNovaTV)
 https://live01.innovatv.tv.br/Nsports_1080/index.m3u8
 
-#EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS 
+#EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (GBPlay)
 https://origin-fast.b-cdn.net/NSPORTS/index.m3u8
 
 #EXTINF:-1 tvg-id="NSports" tvg-logo="https://imgur.com/QgtDIaX.jpg" group-title="ESPORTE", N SPORTS (SATLABS)
@@ -549,6 +564,9 @@ https://ogc-gptv-samsungtvplus-br.otteravision.com/ogc/gptv/gptv_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (MOVIE ARK)
 https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0019/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (GBPlay)
+https://origin-fast.b-cdn.net/GPTV/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://s01.video.glbimg.com/x1080/8310612.jpg" group-title="ESPORTE", CANAL COMBATE (GLOBOPLAY)
 https://linkplay.short.gy/COMBATE/index.m3u8
 
@@ -569,6 +587,9 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/featuredImage.jpg" group-title="ESPORTE", RED BULL TV PLUTO BR
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
+
+#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="ESPORTE", FUEL TV (GBPlay)
+https://origin-fast.b-cdn.net/FUEL_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-logo="https://imgur.com/oR11PaP.jpg" group-title="ESPORTE", WOOHOO (SATTV)
 http://streamer.sattvacabo.com.br/WOOHOO/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
@@ -882,7 +903,7 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playl
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
 
 #EXTINF:-1 cuid="819" tvg-name="tdp 🇪🇸" tvg-id="ESBC410000577" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC410000577_20240611T061853SQUARE.png" group-title="ESPORTE INT", TELEDEPORTE ES
-https://jmp2.uk/stvp-ESBC410000577
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/freelivesports/logo/dbfaec40-bb9a-4d9b-b47f-e894c872d162" group-title="ESPORTE INT", TyC SPORTS FAN
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8?channel_name=TyC%20Sports%20Fan&content_genre=Sport&ic=IAB17&rating=PG&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
