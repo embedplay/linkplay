@@ -5,24 +5,6 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", CBN SP
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CBN_RJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", CBN RJ
-https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/CBN_RJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", NSC TV
-https://rdcanais.net/globosc
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 2
-http://45.134.141.161:2200/BRX/Paramount2_Plus_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 3
-http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 4
-http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
 http://79.127.238.228:14093/globonews_720
 
@@ -602,25 +584,25 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da
 #EXTINF:-1 tvg-id=""premiere" tvg-logo="https://s04.video.glbimg.com/x1080/8223631.jpg" group-title="ESPORTE PPV", PFC (GLOBOPLAY)
 https://linkplay.short.gy/PREMIERE/index.m3u8
 
-#EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
+#EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1100.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://s02.video.glbimg.com/x1080/8221785.jpg" group-title="ESPORTE PPV", PREMIERE 2 (GLOBOPLAY)
 https://linkplay.short.gy/PREMIERE3/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 2
+#EXTINF:-1 tvg-id="PREMIERE 2 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 2 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1104.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://s04.video.glbimg.com/x1080/8221827.jpg" group-title="ESPORTE PPV", PREMIERE 3 (GLOBOPLAY)
 https://linkplay.short.gy/PREMIERE3/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 3
+#EXTINF:-1 tvg-id="PREMIERE 3 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 3 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1103.m3u8
 
 #EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://s01.video.glbimg.com/x1080/8221820.jpg" group-title="ESPORTE PPV", PREMIERE 4 (GLOBOPLAY)
 https://linkplay.short.gy/PREMIERE4/index.m3u8
 
-#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 4
+#EXTINF:-1 tvg-id="PREMIERE 4 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 4 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1102.m3u8
 
 #EXTINF:-1 tvg-id=""premiere" tvg-logo="https://imgur.com/D2xBnYu.jpg" group-title="ESPORTE PPV", PFC
@@ -644,18 +626,26 @@ http://79.127.243.211:14497/Premiere6_720
 #EXTINF:-1 tvg-id="PREMIERE 7 HD" tvg-logo="https://imgur.com/ZnEudtT.jpg" group-title="ESPORTE PPV", PREMIERE 7
 http://79.127.243.211:14501/Premiere7_720
 
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE PPV", SPORTYNET 1
+http://177.52.24.163/SPORTYNET-1-HD/index.m3u8
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE PPV", SPORTYNET 2
+http://177.52.24.163/SPORTYNET-2-HD/index.m3u8
+
+#EXTINF:-1 #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE PPV", SPORTYNET 3
+http://177.52.24.163/SPORTYNET-3-HD/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/qB8ASYn.jpg" group-title="ESPORTE PPV", PARAMOUNT+
-http://200.4.96.59:8825/play/a05h/index.m3u8
+http://45.134.141.161:2200/BRX/Paramount_Plus_HD/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/qB8ASYn.jpg" group-title="ESPORTE PPV", PARAMOUNT+ 2
-http://200.4.96.59:8825/play/a05i/index.m3u8
+http://45.134.141.161:2200/BRX/Paramount2_Plus_HD/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/qB8ASYn.jpg" group-title="ESPORTE PPV", PARAMOUNT+ 3
-http://200.4.96.59:8825/play/a06q/index.m3u8
+http://45.134.141.161:2200/BRX/Paramount3_Plus_HD/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://imgur.com/qB8ASYn.jpg" group-title="ESPORTE PPV", PARAMOUNT+ 4
-http://200.4.96.59:8825/play/a06z/index.m3u8
+http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 
 ************************************************************  FILMES  ************************************************************
 
