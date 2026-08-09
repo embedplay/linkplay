@@ -5,6 +5,36 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT SP
+https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT RJ
+http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
+http://177.52.24.163/SPORTV-1-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV 2
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV 3
+http://177.52.24.163/SPORTV-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN
+http://177.52.24.163/ESPN-1-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 2
+http://177.52.24.163/ESPN-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 3
+http://177.52.24.163/ESPN-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 4
+http://177.52.24.163/ESPN-4-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 5
+http://177.52.24.163/ESPN-5-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
 http://79.127.238.228:14093/globonews_720
 
@@ -118,14 +148,14 @@ https://jqdqa1.short.gy/BAND_SP/index.m3u8
 #EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
 https://jqdqa1.short.gy/BAND_RJ/index.m3u8
 
-#EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/tKE4EZf.jpg" group-title="ABERTOS", SBT RS
+#EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/rp56zbn.jpg" group-title="ABERTOS", SBT RS
 
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT SP
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/HTlObJC.jpg" group-title="ABERTOS", SBT SP
+https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
 
-
-#EXTINF:-1 tvg-id="SBT Rio" tvg-logo="https://imgur.com/6VvmjVY.jpg" group-title="ABERTOS", SBT RJ
-http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
+#EXTINF:-1 tvg-id="SBT Rio" tvg-logo="https://imgur.com/6m0GMLN.jpg" group-title="ABERTOS", SBT RJ
+https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/WIiDeA0.jpg" group-title="ABERTOS", +SBT
 https://aovivo.maissbt.com/channel_1080.m3u8
@@ -649,22 +679,31 @@ http://45.134.141.161:2200/BRX/Paramount4_Plus_HD/index.m3u8
 
 ************************************************************  FILMES  ************************************************************
 
-#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://s03.video.glbimg.com/x1080/10221110.jpg" group-title="FILMES", TELECINE PREMIUM
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://s03.video.glbimg.com/x1080/10221110.jpg" group-title="FILMES", TELECINE PREMIUM (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1071.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://s01.video.glbimg.com/x1080/10221184.jpg" group-title="FILMES", TELECINE ACTION
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://s03.video.glbimg.com/x1080/10221110.jpg" group-title="FILMES", TELECINE PREMIUM
+http://79.127.243.211:14648/tcp_1080
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://s01.video.glbimg.com/x1080/10221184.jpg" group-title="FILMES", TELECINE ACTION (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1075.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://s04.video.glbimg.com/x1080/10221239.jpg" group-title="FILMES", TELECINE TOUCH
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://s01.video.glbimg.com/x1080/10221184.jpg" group-title="FILMES", TELECINE ACTION
+http://79.127.243.211:14632/tca_1080
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://s04.video.glbimg.com/x1080/10221239.jpg" group-title="FILMES", TELECINE TOUCH (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1070.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://s03.video.glbimg.com/x1080/10223522.jpg" group-title="FILMES", TELECINE FUN
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://s04.video.glbimg.com/x1080/10221239.jpg" group-title="FILMES", TELECINE TOUCH
+http://79.127.243.211:14652/tct_1080
+
+#EXTINF:-1 tvg-id="TELECINE FUN" tvg-logo="https://s03.video.glbimg.com/x1080/10223522.jpg" group-title="FILMES", TELECINE FUN (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1073.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://s02.video.glbimg.com/x1080/10221225.jpg" group-title="FILMES", TELECINE PIPOCA
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://s02.video.glbimg.com/x1080/10221225.jpg" group-title="FILMES", TELECINE PIPOCA (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1072.m3u8
 
-#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://s02.video.glbimg.com/x1080/10221109.jpg" group-title="FILMES", TELECINE CULT
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://s02.video.glbimg.com/x1080/10221109.jpg" group-title="FILMES", TELECINE CULT (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1074.m3u8
 
 #EXTINF:-1 tvg-id="TNT HD" tvg-logo="https://imgur.com/JZsc2kf.jpg" group-title="FILMES", TNT (SATLABS)
@@ -673,10 +712,10 @@ https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 #EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/keRP8bD.jpg" group-title="FILMES", SPACE (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="FILMES", HBO
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="FILMES", HBO (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="FILMES", HBO 2
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="FILMES", HBO 2 (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
 
 
