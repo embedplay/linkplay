@@ -5,6 +5,20 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 1
+http://46.151.196.223:14425/dazn_1_pt_1080
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 2
+http://46.151.196.223:14421/dazn_2_pt
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 3
+http://46.151.196.223:14422/dazn_3_pt_1080
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 4
+http://46.151.196.223:14423/dazn_4_pt_1080
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 5
+http://46.151.196.223:14424/dazn_5_pt_1080
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT SP
 https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
 
@@ -139,13 +153,13 @@ https://linkplay.short.gy/GLOBODF/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/iJBfVOB.jpg" group-title="ABERTOS", GLOBO BA (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOBA/index.m3u8
 
-#EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/BPzhkEb.jpg" group-title="ABERTOS", BAND RS (BANDPLAY)
+#EXTINF:-1 tvg-id="Band Porto Alegre" tvg-logo="https://imgur.com/W81OwiO.jpg" group-title="ABERTOS", BAND RS (BANDPLAY)
 https://jqdqa1.short.gy/BAND_RS/index.m3u8
 
-#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://imgur.com/zvIW2Bo.jpg" group-title="ABERTOS", BAND SP (BANDPLAY)
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://imgur.com/tZLhDaw.jpg" group-title="ABERTOS", BAND SP (BANDPLAY)
 https://jqdqa1.short.gy/BAND_SP/index.m3u8
 
-#EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/xHOzW1C.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
+#EXTINF:-1 tvg-id="Band Rio" tvg-logo="https://imgur.com/9tAMXBC.jpg" group-title="ABERTOS", BAND RJ (BANDPLAY)
 https://jqdqa1.short.gy/BAND_RJ/index.m3u8
 
 #EXTINF:-1 tvg-id="SBT RS HD" tvg-logo="https://imgur.com/rp56zbn.jpg" group-title="ABERTOS", SBT RS
@@ -486,6 +500,9 @@ http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/11134179.jpg" group-title="ESPORTE", GE TV (GLOBOPLAY)
 https://linkplay.short.gy/GETV/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://s01.video.glbimg.com/x1080/13823792.jpg" group-title="ESPORTE", GE TV EXTRA (GLOBOPLAY)
+https://linkplay.short.gy/GETVEXTRA/index.m3u8
+
 #EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (TCLTV)
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
@@ -797,7 +814,7 @@ http://201.217.246.42:44310/Live/87c30360c988c20002c941a15df39e07/local-92_720.m
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://imgur.com/b0yR5He.jpg" group-title="ESPORTE LAT", TyC SPORTS AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-90_720.m3u8
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/RDC6r5m.jpg" group-title="ESPORTE LAT", TUDN MX
 http://tkosportz.live:25461//live/swilder2023/6063815781/99415.ts
@@ -1094,3 +1111,4 @@ https://conectperu.com/8012/stream
 https://vivo.solumedia.com:19360/sonica/sonica.m3u8
 
 #EXTM3U
+v
