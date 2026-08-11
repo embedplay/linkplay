@@ -500,7 +500,7 @@ http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7
 #EXTINF:-1 tvg-logo="https://s04.video.glbimg.com/x1080/11134179.jpg" group-title="ESPORTE", GE TV (GLOBOPLAY)
 https://linkplay.short.gy/GETV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s01.video.glbimg.com/x1080/13823792.jpg" group-title="ESPORTE", GE TV EXTRA (GLOBOPLAY)
+#EXTINF:-1 tvg-logo="https://imgur.com/EPvVPVA.jpg" group-title="ESPORTE", GE TV EXTRA (GLOBOPLAY)
 https://linkplay.short.gy/GETVEXTRA/index.m3u8
 
 #EXTINF:-1 tvg-id="ge-tv" tvg-logo="https://imgur.com/Zgt0eel.jpg" group-title="ESPORTE", GE TV (TCLTV)
