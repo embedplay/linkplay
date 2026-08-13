@@ -20,12 +20,6 @@ http://46.151.196.223:14423/dazn_4_pt_1080
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 5
 http://46.151.196.223:14424/dazn_5_pt_1080
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT SP
-https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT RJ
-http://186.227.63.210:5000/live/SBTRJ/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
 
@@ -167,7 +161,7 @@ https://jqdqa1.short.gy/BAND_RJ/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://imgur.com/HTlObJC.jpg" group-title="ABERTOS", SBT SP
-https://d1jvs4svzaqp8n.cloudfront.net/indexMobile.m3u8
+https://d1jvs4svzaqp8n.cloudfront.net/channel_1080.m3u8
 
 #EXTINF:-1 tvg-id="SBT Rio" tvg-logo="https://imgur.com/6m0GMLN.jpg" group-title="ABERTOS", SBT RJ
 https://sbt.cdnsimba.com.br/bpk-tv/SBTrj/default/index.m3u8
