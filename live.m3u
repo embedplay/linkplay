@@ -172,8 +172,8 @@ https://aovivo.maissbt.com/channel_1080.m3u8
 #EXTINF:-1 tvg-id="Record Porto Alegre HD" tvg-logo="https://imgur.com/d59Gz8F.jpg" group-title="ABERTOS", RECORD RS
 
 
-#EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD SP (SATTV)
-http://streamer.sattvacabo.com.br/RECORD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+#EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD SP
+https://raw.githubusercontent.com/embedplay/linkplay/refs/heads/main/Streams/RECORD_SP.m3u8
 
 #EXTINF:-1 tvg-id="Record TV Rio HD" tvg-logo="https://imgur.com/TwC4X9a.jpg" group-title="ABERTOS", RECORD RJ
 http://186.227.63.210:5000/live/RECORDRJ/playlist.m3u8
