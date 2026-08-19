@@ -5,20 +5,6 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 1
-http://46.151.196.223:14425/dazn_1_pt_1080
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 2
-http://46.151.196.223:14421/dazn_2_pt
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 3
-http://46.151.196.223:14422/dazn_3_pt_1080
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 4
-http://46.151.196.223:14423/dazn_4_pt_1080
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN 5
-http://46.151.196.223:14424/dazn_5_pt_1080
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
@@ -244,6 +230,9 @@ https://live01.innovatv.tv.br/Bmc_720/index.m3u8
 #EXTINF:-1 tvg-id="BM&C" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/featuredImage.jpg" group-title="ABERTOS", BM&C NEWS (MOVIE ARK)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/VCqyA7w.jpg" group-title="ABERTOS", SUPER FINANÇAS (LGTV)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=17293
+
 #EXTINF:-1 tvg-id="Bloomberg HD" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage.jpg" group-title="ABERTOS", BLOOMBERG TV (STV)
 https://24aab495.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9CbG9vbWJlcmdUVl9ITFM/playlist.m3u8
 
@@ -317,6 +306,7 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+ (MULTTV)
+http://138.255.2.6:8084/AGROMAIS/index.m3u8
 https://cdnvipwaytv.multtv.tv.br:5443/DbcrQOaeRXYSrB736Umr-A/1785926962/Agromais/video.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
@@ -514,7 +504,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/0b78b33e427
 https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (LGTV)
-https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg17930-amg17930c2-amgplt0026/723fb186-95c6-11f1-bfa4-0a00db37be10/48/1920x1080_6709560/index.m3u8
+https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg17930-amg17930c2-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (STV)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
@@ -603,11 +593,14 @@ https://143.14.134.107/167/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69a20556814d27f4ae630a92/featuredImage.jpg" group-title="ESPORTE", UFC TV PLUTO BR
 https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF (GLOBOPLAY)
+#EXTINF:-1 tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF (GLOBOPLAY)
 https://linkplay.short.gy/CANALOFF/index.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
+#EXTINF:-1 tvg-logo="https://imgur.com/fxlvmIU.jpg" group-title="ESPORTE", CANAL OFF
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7Hh9ysy.jpg" group-title="ESPORTE", ULTRA SPORTS
+https://bit.ly/4hydOQW
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/featuredImage.jpg" group-title="ESPORTE", RED BULL TV PLUTO BR
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
@@ -620,6 +613,9 @@ http://streamer.sattvacabo.com.br/WOOHOO/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f
 
 #EXTINF:-1 tvg-logo="https://imgur.com/oR11PaP.jpg" group-title="ESPORTE", WOOHOO SURF (MOVIE ARK)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/1edb59fc36da4004ba4452a3e00993b2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/oR11PaP.jpg" group-title="ESPORTE", WOOHOO SURF (GBPlay)
+https://origin-fast.b-cdn.net/WOOHOO_FAST/index.m3u8
 
 ************************************************************  ESPORTE PPV  ************************************************************  
 
