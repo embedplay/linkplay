@@ -5,6 +5,17 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", CAZÉTV PRIME VIDEO
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/790040534a2a067a72b4406b593efe1f/file.txt
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SporTV
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/700c875e14cf401138876b818388e96a/file.txt
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SporTV 2
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/09fca5da5f9f9b9133754af14a0e2be9/file.txt
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SporTV 3
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/f62e2767fa5bbc7b4cbb7aca319adc5b/file.txt
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
@@ -98,6 +109,9 @@ https://linkplay.short.gy/RBSTVPOA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (MEGAFLIX)
 https://megaflix.mgfiles.lat/a3138cb07e5978fb23f586ca1d7a1841/file.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (MEGAFLIX)
+https://megaflix.mgfiles.lat/62b278caf8021fc494d36ab72bc861b6/file.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
@@ -127,6 +141,9 @@ https://linkplay.short.gy/GLOBOMG/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG (MEGAFLIX)
 https://megaflix.mgfiles.lat/2ba6636b5c30affbdac54fd41469f3b8/file.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/YdVKfc7.jpg" group-title="ABERTOS", GLOBO MG (TXT)
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/60842be4f3e82a1163948605d01b3b96/file.txt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/IY8G1j5.jpg" group-title="ABERTOS", GLOBO DF (GLOBOPLAY)
 https://linkplay.short.gy/GLOBODF/index.m3u8
@@ -230,9 +247,6 @@ https://live01.innovatv.tv.br/Bmc_720/index.m3u8
 #EXTINF:-1 tvg-id="BM&C" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/featuredImage.jpg" group-title="ABERTOS", BM&C NEWS (MOVIE ARK)
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/8887808ea3454f8ab4a529620ad0c3c2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/VCqyA7w.jpg" group-title="ABERTOS", SUPER FINANÇAS (LGTV)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=17293
-
 #EXTINF:-1 tvg-id="Bloomberg HD" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/featuredImage.jpg" group-title="ABERTOS", BLOOMBERG TV (STV)
 https://24aab495.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9CbG9vbWJlcmdUVl9ITFM/playlist.m3u8
 
@@ -274,9 +288,6 @@ https://video01.logicahost.com.br/poastreaming/poastreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/KOJelN6.jpg" group-title="ABERTOS", POA 24 HORAS
 https://rtisoluctions.com.br/hls/test_src.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/G7v7xSD.jpg" group-title="ABERTOS", TV MINUANO
-https://tv02.zas.media:1936/minuano/minuano/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/zNynSWT.jpg" group-title="ABERTOS", RS PLAY TV
 https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
@@ -475,6 +486,9 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1174.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET
 http://177.52.24.163/SPORTYNET/index.m3u8
+
+#EXTINF:-1 tvg-id="SportyNet" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET (MOVIE ARK)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/vSXqnmX.jpg" group-title="ESPORTE", X SPORTS (STV)
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
@@ -731,6 +745,9 @@ https://cdn-sp2.satlabscloud.com.br/TNT_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQ
 
 #EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/keRP8bD.jpg" group-title="FILMES", SPACE (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/SPACE_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+
+#EXTINF:-1 tvg-id="SPACE HD" tvg-logo="https://imgur.com/keRP8bD.jpg" group-title="FILMES", SPACE
+https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/b0b1a4a02bd23e55c71db9094d118290/file.txt
 
 #EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="FILMES", HBO (STONETV)
 http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1128.m3u8
