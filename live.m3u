@@ -259,6 +259,9 @@ https://amg01391-sbtinfast-amg01391c5-lg-br-6099.playouts.now.amagi.tv/playlist.
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/645a99282858cb0008ea8378/featuredImage.jpg" group-title="ABERTOS", NEW BRASIL (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/midRollAndPipAd/49587eb5acfb435cac34dcfc820bf564/playlist.m3u8
 
+#EXTINF:-1 tvg-id="UOL" tvg-logo="https://imgur.com/wOIGtql.jpg" group-title="ABERTOS", CANAL UOL (UOLPLAY)
+https://video24.mais.uol.com.br/live/6146.m3u8
+
 #EXTINF:-1 tvg-id="UOL" tvg-logo="https://imgur.com/wOIGtql.jpg" group-title="ABERTOS", CANAL UOL (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fab45528fa125f7b2d55927/playlist.m3u8
 
@@ -321,7 +324,7 @@ http://138.255.2.6:8084/AGROMAIS/index.m3u8
 https://cdnvipwaytv.multtv.tv.br:5443/DbcrQOaeRXYSrB736Umr-A/1785926962/Agromais/video.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
-http://45.162.64.114/CANAL_DO_BOI/playlist.m3u8
+https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8
 
 #EXTINF:-1 tvg-id="Canal do Criador" tvg-logo="https://imgur.com/cpUUpPR.jpg" group-title="ABERTOS", CANAL DO CRIADOR (PHIZTV)
 https://77cdn-global.phiztv.com/live/f4473c9c-711c-4e86-93fe-59557abe8bfd/index.m3u8
@@ -521,7 +524,7 @@ https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/1080p-cc/index.m3
 https://amg17930-amg17930c2-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg17930-amg17930c2-amgplt0026/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (STV)
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+https://cc-gilgbjhgo02wm.akamaized.net/1080p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://imgur.com/aoVzWYh.jpg" group-title="ESPORTE", CAZÉTV (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5a9eaefac5584455afb01b50b1bcc619/manifest_abr/4cfe2726-a1c1-422a-80a6-666312211dd6/946cafd578f628eba5b742ec27dd1e98/4.m3u8
