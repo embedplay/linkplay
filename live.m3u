@@ -4,18 +4,17 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", WTA SP OPEN Q1
+https://cdn3.wowza.com/1/eUg2SmpGNXlKVjVl/NHdDeWZB/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", CAZÉTV PRIME VIDEO
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/790040534a2a067a72b4406b593efe1f/file.txt
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", WTA SP OPEN Q2
+https://cdn3.wowza.com/1/d3p4a2tKOFdKVlh3/SUgxcnV0/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SporTV
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/700c875e14cf401138876b818388e96a/file.txt
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", A FAZENDA
+https://megaflix.mgfiles.lat/039ff9bbadf245574cd86cc625b5be36/file.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SporTV 2
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/09fca5da5f9f9b9133754af14a0e2be9/file.txt
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SporTV 3
-https://t5r4e3w2q1y0.s21-cloudfront-net.lat/test/f62e2767fa5bbc7b4cbb7aca319adc5b/file.txt
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", A FAZENDA
+https://megaflix.mgfiles.lat/c8e4dfd3962aaa276e2decaebee8c535/file.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
 http://177.52.24.163/SPORTV-1-HD/index.m3u8
@@ -111,6 +110,9 @@ https://megaflix.mgfiles.lat/a3138cb07e5978fb23f586ca1d7a1841/file.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (MEGAFLIX)
 https://megaflix.mgfiles.lat/62b278caf8021fc494d36ab72bc861b6/file.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/9d6f6fcf13743dc1bfd9d88ba6edd1ac/file.txt
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS (SATLABS)
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
@@ -269,7 +271,7 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/d2e9f2169fa
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (INNovaTV)
-https://live01.innovatv.tv.br/OesteTV_720/index.m3u8
+https://live01innovatvtvbr.cachefly.net/OesteTV_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (GBPlay)
 https://origin-fast.b-cdn.net/OESTE_TV/index.m3u8
@@ -319,9 +321,8 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="Tvbrasil.br" tvg-logo="https://imgur.com/cSGtFbn.jpg" group-title="ABERTOS", TV BRASIL INT
 https://tvbrasilinternacional-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+ (MULTTV)
-http://138.255.2.6:8084/AGROMAIS/index.m3u8
-https://cdnvipwaytv.multtv.tv.br:5443/DbcrQOaeRXYSrB736Umr-A/1785926962/Agromais/video.m3u8
+#EXTINF:-1 tvg-id="Agro+" tvg-logo="https://imgur.com/YTKHFsh.jpg" group-title="ABERTOS", AGRO+ 
+http://45.162.64.114/AGROMAIS/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-logo="https://imgur.com/z3ZSWM6.jpg" group-title="ABERTOS", CANAL DO BOI
 https://aovivo3.equipea.com.br:5443/aovivort/streams/FGPjVZA1EidEnBCn5502382962900440.m3u8
@@ -332,8 +333,8 @@ https://77cdn-global.phiztv.com/live/f4473c9c-711c-4e86-93fe-59557abe8bfd/index.
 #EXTINF:-1 tvg-id="Canalrural.br" tvg-logo="https://imgur.com/rZccZZJ.jpg" group-title="ABERTOS", CANAL RURAL (PHIZTV)
 https://77cdn-global.phiztv.com/live/970006d4-5090-4011-b77c-d791ed994af4/index.m3u8
 
-#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRA VIVA
-https://9ada494d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfVXBseW5rLU5ld2NvX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="Terra Viva" tvg-logo="https://imgur.com/eWQBI6j.jpg" group-title="ABERTOS", TERRAVIVA (BANDPLAY)
+https://Jqdqa1.short.gy/TERRAVIVA/index.m3u8
 
 
 ************************************************************  ABERTOS INT  ************************************************************
@@ -369,13 +370,13 @@ http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/a24_720.m3u8
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-17.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://imgur.com/u8aB0FY.jpg" group-title="ABERTOS INT", CANAL 26 AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/c26_720.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://imgur.com/HePcWRZ.jpg" group-title="ABERTOS INT", C5N AR
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/c5n_720.m3u8
 
 #EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://imgur.com/1RZgXxI.jpg" group-title="ABERTOS INT", EL TRECE AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/eltrece_720.m3u8
+http://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="LANACION.uy" tvg-logo="https://cibercartel.com/wp-content/uploads/la-nacion-argenyina-tv-en-vivo-gratis.jpg" group-title="ABERTOS INT", LN+ AR
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/lntv_720.m3u8
@@ -472,6 +473,9 @@ http://streamer.sattvacabo.com.br/ESPN5/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4
 #EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5 (SUA.TV)
 http://hls1.sua.tv/live/espn5hd/s.m3u8
 
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE", ESPN 5 
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/embedtv/4b68a5449bb4b8153729ac13e1a933e0/file.txt
+
 #EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE", ESPN 6 (SATTV)
 http://streamer.sattvacabo.com.br/ESPN_EXTRA_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 
@@ -495,6 +499,9 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed5
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/vSXqnmX.jpg" group-title="ESPORTE", X SPORTS (STV)
 https://pb-r54iiecsw1gj5.akamaized.net/XSports.m3u8
+
+#EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/vSXqnmX.jpg" group-title="ESPORTE", X SPORTS (MOVIE ARK)
+hhttps://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/bd3a464ef79742bc9a6e0266c0ceb668/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Xsports" tvg-logo="https://imgur.com/8UPaMfg.jpg" group-title="ESPORTE", X SPORTS (SATTV)
 http://streamer.sattvacabo.com.br/XSPORTS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
@@ -1079,7 +1086,10 @@ https://cast.youngtech.radio.br/radio/8780/fm
 #EXTINF:-1 tvg-logo="https://imgur.com/1UoTV8q.jpg" group-title="RADIO", GAÚCHA
 https://8033.brasilstream.com.br/stream?rand=oXKEw
 
-#EXTINF:-1 tvg-logo="https://imgur.com/t0kDObk.jpg" group-title="RADIO", GAUCHA 2
+#EXTINF:-1 tvg-logo="https://imgur.com/uxmIzEd.jpg" group-title="RADIO", GAÚCHA GZH
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/30Mx6mC.jpg" group-title="RADIO", GAÚCHA GZH 2
 https://liverdgaupoa2.rbsdirect.com.br/primary/gaucha_rbs2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yjjOSCY.jpg" group-title="RADIO", ATLÂNTIDA
