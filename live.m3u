@@ -4,41 +4,39 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", WTA SP OPEN Q1
-https://cdn3.wowza.com/1/eUg2SmpGNXlKVjVl/NHdDeWZB/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", WTA SP OPEN Q2
-https://cdn3.wowza.com/1/d3p4a2tKOFdKVlh3/SUgxcnV0/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", FUBO SPORTS TV
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=858538&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", A FAZENDA
-https://megaflix.mgfiles.lat/039ff9bbadf245574cd86cc625b5be36/file.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894977&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", A FAZENDA
-https://megaflix.mgfiles.lat/c8e4dfd3962aaa276e2decaebee8c535/file.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894978&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV
-http://177.52.24.163/SPORTV-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 3
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894979&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV 2
-http://177.52.24.163/SPORTV-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 4
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894980&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SPORTV 3
-http://177.52.24.163/SPORTV-3-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 1
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894968&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN
-http://177.52.24.163/ESPN-1-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 2
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894969&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 2
-http://177.52.24.163/ESPN-2-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 3
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894970&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 3
-http://177.52.24.163/ESPN-3-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 4
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894971&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 4
-http://177.52.24.163/ESPN-4-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 5
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894972&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 5
-http://177.52.24.163/ESPN-5-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 6 
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894973&extension=m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
 http://79.127.238.228:14093/globonews_720
@@ -599,9 +597,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=16499
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (STV)
 https://ogc-gptv-samsungtvplus-br.otteravision.com/ogc/gptv/gptv_1080p.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (MOVIE ARK)
-https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist/amg26329-amg26329c1-amgplt0019/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/kwU7uoG.jpg" group-title="ESPORTE", GP TV (GBPlay)
 https://origin-fast.b-cdn.net/GPTV/index.m3u8
 
@@ -988,6 +983,9 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 https://yahoo2.global.transmit.live/hls/69a863caaa36ac3aa54feb97/6394186917112/us-east-1/6415665815001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoid3ZldjF1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNTY2NTgxNTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjY1ODE1MDAxIl0sImp0aSI6IjYzOTQxODY5MTcxMTIifQ.qp9WTlaf08RXBmdRgl1kqCspeh-FX0lBJ0wDZGe3cUM/playlist-hls-dvr.m3u8
 
 ************************************************************  ESPORTE PORTUGAL  ************************************************************
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE PT", CANAL 11
+http://50.7.120.34:8080/CANAL_11/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="ESPORTE PT", SPORT TV 1
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/sprtv1.m3u8
