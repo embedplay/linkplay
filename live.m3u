@@ -211,12 +211,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 #EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS 
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BAND NEWS FM (LGTV)
-https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BAND NEWS FM (STV)
-https://pb-qdlphgd0nvd7v.akamaized.net/BandnewsFM.m3u8
-
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (TCLTV)
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 
@@ -276,6 +270,27 @@ https://live01innovatvtvbr.cachefly.net/OesteTV_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/BoN3FB3.jpg" group-title="ABERTOS", OESTE TV (GBPlay)
 https://origin-fast.b-cdn.net/OESTE_TV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s01.video.glbimg.com/x1080/9182156.jpg", group-title="ABERTOS", RÁDIO CBN SP (GLOBOPLAY)
+https://linkplay.short.gy/CBNSP/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s03.video.glbimg.com/x1080/9182126.jpg", group-title="ABERTOS", RÁDIO CBN RJ (GLOBOPLAY)
+https://linkplay.short.gy/CBNRJ/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BAND NEWS FM (LGTV)
+https://amg29547-amg29547c2-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c2-amgplt0026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BAND NEWS FM (STV)
+https://pb-qdlphgd0nvd7v.akamaized.net/BandnewsFM.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BAND NEWS FM (MOVIE ARK)
+https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BANDEIRANTES (LGTV)
+https://amg29547-amg29547c3-amgplt0026.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg29547-amg29547c3-amgplt0026/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/KkXLi6M", group-title="ABERTOS", RÁDIO BANDEIRANTES (MOVIE ARK) 
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/18bf0c9b77d443ebba97ff7e27381394/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTPampa.br" tvg-logo="https://imgur.com/khkkkuk.jpg" group-title="ABERTOS", TV PAMPA
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
