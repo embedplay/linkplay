@@ -5,39 +5,6 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", FUBO SPORTS TV
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=858538&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894977&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894978&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894979&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", TNT SPORTS 4
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894980&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 1
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894968&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 2
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894969&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 3
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894970&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 4
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894971&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 5
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894972&extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ZIGGO SPORTS 6 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894973&extension=m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS
 http://79.127.238.228:14093/globonews_720
 
@@ -208,8 +175,8 @@ https://origin-fast.b-cdn.net/CNBC/playlist.m3u8
 #EXTINF:-1 tvg-id="TIMES EXCLUSIVO CNBC" tvg-logo="https://imgur.com/gNFG8oC.jpg" group-title="ABERTOS", CNBC TIMES BRASIL (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS 
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
+#EXTINF:-1 tvg-id="Bandnews" tvg-logo="https://imgur.com/APwC4JU.jpg" group-title="ABERTOS", BAND NEWS (BANDPLAY)
+https://Jqdqa1.short.gy/BANDNEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="Jovem Pan News" tvg-logo="https://images.pluto.tv/channels/6317ba014d4d040007227f72/featuredImage.jpg" group-title="ABERTOS", JOVEN PAN NEWS (TCLTV)
 https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
