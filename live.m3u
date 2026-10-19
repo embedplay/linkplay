@@ -1058,7 +1058,7 @@ https://r14.ciclano.io:15122/stream
 https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rvzqv4O.jpg" group-title="RADIO", CONCIERTO FM PUNTA
-https://conectperu.com/8012/stream
+https://s3.yesstreaming.net:7022/stream
 
 #EXTINF:-1 tvg-logo="https://imgur.com/CS0TNdc.jpg" group-title="RADIO", RÁDIO SONICA LIBRES
 https://vivo.solumedia.com:19360/sonica/sonica.m3u8
