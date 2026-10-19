@@ -8,27 +8,6 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS HD
 http://79.127.238.228:14093/globonews_720
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN
-https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 2
-https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 3
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 4
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 5
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 6
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", ESPN 7
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM (GLOBOPLAY)
@@ -323,34 +302,34 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://imgur.com/UMgImeY.jpg" group-title="ABERTOS INT", A24 AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/a24_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/a24_720.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="ABERTOS INT", AMÉRICA TV AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-17.playlist.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/1068.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://imgur.com/u8aB0FY.jpg" group-title="ABERTOS INT", CANAL 26 AR
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://imgur.com/HePcWRZ.jpg" group-title="ABERTOS INT", C5N AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/c5n_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/c5n_720.m3u8
 
 #EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://imgur.com/1RZgXxI.jpg" group-title="ABERTOS INT", EL TRECE AR
 http://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-id="LANACION.uy" tvg-logo="https://cibercartel.com/wp-content/uploads/la-nacion-argenyina-tv-en-vivo-gratis.jpg" group-title="ABERTOS INT", LN+ AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/lntv_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/lntv_720.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://imgur.com/LS4R6UJ.jpg" group-title="ABERTOS INT", TELEFE AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/telefe_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/telefe_720.m3u8
 
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://imgur.com/oMGlz6e.jpg" group-title="ABERTOS INT", TELEMAX AR
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://imgur.com/VTQUnaO.jpg" group-title="ABERTOS INT", TN 24 AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tn_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tn_720.m3u8
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://imgur.com/F8iOZBp.jpg" group-title="ABERTOS INT", TVP ARG
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/tvpublica_720.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://imgur.com/Kom7I9v.jpg" group-title="ABERTOS INT", TVP ARG
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
 
 #EXTINF:-1 tvg-id="VTV.uy" tvg-logo="https://imgur.com/qkWoDnb.jpg" group-title="ABERTOS INT", VTV UY
 http://tv.zapping.life:8080/live/Maximo003/dNyY9k8v4N/8535.m3u8
@@ -707,10 +686,10 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1127.m3u8
 ************************************************************  ESPORTE LATINO  ************************************************************
 
 #EXTINF:-1 tvg-id="A&amp;E" tvg-logo="https://imgur.com/grdm8Be.jpg" group-title="ESPORTE LAT", DEPORTV AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/deportv_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/deportv_720.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE LAT", ESPN AR
-http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-94_720.m3u8
+http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/local-94_720.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE LAT", ESPN 2 AR
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-97_720.m3u8
@@ -721,29 +700,38 @@ http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-96_720.m
 #EXTINF:-1 tvg-id="ESPN4.ar" tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE LAT", ESPN 4 AR
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-95_720.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgur.com/rbPVbSM.jpg" group-title="ESPORTE LAT", ESPN PREMIUM AR
+
+
 #EXTINF:-1 tvg-logo="https://imgur.com/qpsnlAw.jpg" group-title="ESPORTE LAT", ESPN LAT
-http://179.60.51.134:8888/ESPN/index.m3u8
+https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE LAT", ESPN 2 LAT
-http://179.60.51.134:8888/ESPN2/index.m3u8
+https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/3D3L6B4.jpg" group-title="ESPORTE LAT", ESPN 2 LAT
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/chunks.m3u8?nimblesessionid=718520639
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE LAT", ESPN 3 LAT
-http://179.60.51.134:8888/ESPN3/index.m3u8
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/PXFjlD0.jpg" group-title="ESPORTE LAT", ESPN 3 LAT
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/chunks.m3u8?nimblesessionid=718532883
 
 #EXTINF:-1 tvg-logo="https://imgur.com/PVYIjMn.jpg" group-title="ESPORTE LAT", ESPN 4 LAT
-
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bCVYS7f.jpg" group-title="ESPORTE LAT", ESPN 5 LAT
-
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/h9l4jnB.jpg" group-title="ESPORTE LAT", ESPN 6 LAT
-
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/cyhzGVC.jpg" group-title="ESPORTE LAT", ESPN 7 LAT
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://imgur.com/rbPVbSM.jpg" group-title="ESPORTE LAT", ESPN PREMIUM AR
-http://201.217.246.177:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/rbPVbSM.jpg" group-title="ESPORTE LAT", ESPN PREMIUM LAT
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn_premium.stream/chunks.m3u8?nimblesessionid=718528956
 
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-logo="https://iptv-epg.org/logos/Argentina/FOXSportsConoSur.ar.png" group-title="ESPORTE LAT", FOX SPORTS 1 AR
 http://201.217.246.42:44310/Live/a8a0dc318cc5a076f84bea2206893142/local-91_720.m3u8
