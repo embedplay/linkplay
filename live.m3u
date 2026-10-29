@@ -8,6 +8,9 @@
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO NEWS HD
 http://79.127.238.228:14093/globonews_720
 
+#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", DAZN F1
+http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8
+
 ************************************************************  ABERTOS  ************************************************************
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV SM (GLOBOPLAY)
@@ -326,7 +329,7 @@ http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/telefe_720.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://imgur.com/VTQUnaO.jpg" group-title="ABERTOS INT", TN 24 AR
-http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tn_720.m3u8
+https://live-01-01-tn.vodgc.net/TN_DAI_Beta/index_TN_DAI_Beta_1080.m3u8
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://imgur.com/Kom7I9v.jpg" group-title="ABERTOS INT", TVP ARG
 http://181.209.91.106:2222/Live/37e7049953fc633d988909c9a24e0a65/tvpublica_720.m3u8
@@ -542,6 +545,9 @@ http://189.76.71.35:8555/live/cdn_stonetv/cdn_stonetv/1110.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/7Hh9ysy.jpg" group-title="ESPORTE", ULTRA SPORTS
 https://bit.ly/4hydOQW
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/featuredImage.jpg" group-title="ESPORTE", RED BULL TV (LGTV)
+https://linear-1026.frequency.stream/dist/lg-br/1026/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/67813f3162bf016db944c9ab/featuredImage.jpg" group-title="ESPORTE", RED BULL TV PLUTO BR
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
@@ -863,10 +869,7 @@ https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT5100001HE_20260127T040728SQUARE.png" group-title="ESPORTE INT", RALLY TV FAST+
-https://jmp2.uk/stvp-AT5100001HE
-
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/AT5100001HE_20260127T040728SQUARE.png" group-title="ESPORTE INT", RALLY TV FAST+
-https://jmp2.uk/stvp-GB51000026A
+https://dv1e2nq0r4g7p.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n8rallqdrsy49/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p6dxdzC.jpg" group-title="ESPORTE INT", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -1025,11 +1028,11 @@ https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 https://liverdgaupoa2.rbsdirect.com.br/primary/gaucha_rbs2.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yjjOSCY.jpg" group-title="RADIO", ATLÂNTIDA
-http://liverdatlpoa.rbsdirect.com.br/primary/atl_poa.sdp/chunklist.m3u8
+https://26683.live.streamtheworld.com/RBS_RADIOSAAC/HLS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/yjjOSCY.jpg" group-title="RADIO", ATLÂNTIDA FLORIPA
-https://24383.live.streamtheworld.com/ATL_FLO.mp3
- 
+https://24403.live.streamtheworld.com/ATL_FLOAAC/HLS/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/MuVAULr.jpg" group-title="RADIO", RÁDIO GUAÍBA
 https://stm12.voxhd.com.br:9670/stream/
  
