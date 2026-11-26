@@ -4,26 +4,14 @@
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", 
 
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", RBS_HD
-https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", BAND_RS
-https://cdn-sp2.satlabscloud.com.br/BAND_RS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", SBT_RS
-https://cdn-sp2.satlabscloud.com.br/SBT_RS/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", RECORD_RS
-https://cdn-sp2.satlabscloud.com.br/RECORD_RS/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO_RIO
 https://cdn-aovivo-atualplay.nxtv.com.br/GLOBO_RIO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO_PR
-https://cdn-sp2.satlabscloud.com.br/GLOBO_PR/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/GLOBO_PR/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO_DF
-https://cdn-sp2.satlabscloud.com.br/GLOBO_DF/index.m3u8
+https://cdn-sp2.satlabscloud.com.br/GLOBO_DF/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
 #EXTINF:-1 tvg-logo="https://imgur.com/Fyeiua8.jpg" group-title="AO VIVO", GLOBO_BAHIA
 https://cdn-aovivo-atualplay.nxtv.com.br/GLOBO_BAHIA/index.m3u8
@@ -39,8 +27,11 @@ https://linkplay.short.gy/RBSTVSM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV POA (GLOBOPLAY)
 https://linkplay.short.gy/RBSTVPOA/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV (SATLABS)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS (SATLABS)
 https://gvtelecom.satlabscloud.com.br/RBS_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/F0SBowD.jpg" group-title="ABERTOS", RBS TV CAXIAS (SATLABS)
+https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=RGnYBgq1dxRk5Eur690t0mpVo01rfWpPLxrMx
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/jc6G23A.jpg" group-title="ABERTOS", GLOBO SP (GLOBOPLAY)
 https://linkplay.short.gy/GLOBOSP/index.m3u8
@@ -430,6 +421,9 @@ http://streamer.sattvacabo.com.br/BAND_SPORTS_HD/index.m3u8?token=RGnYBgq1dxRk5E
 
 #EXTINF:-1 tvg-id="Bandsports HD" #EXTINF:-1 tvg-logo="https://imgur.com/X38gYdK.jpg" group-title="ESPORTE", BAND SPORTS (NXTV)
 https://cdn-aovivo-atualplay.nxtv.com.br/BAND_SPORTS/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SportyNet" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET (INNovaTV)
+https://live01.innovatv.tv.br/Sportynet_1080/index.m3u8
 
 #EXTINF:-1 tvg-id="SportyNet" #EXTINF:-1 tvg-logo="https://imgur.com/Ggxoiaz.jpg" group-title="ESPORTE", SPORTYNET (MOVIE ARK)
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/fe87ffbfed544016861c529f5324cfb4/playlist.m3u8
